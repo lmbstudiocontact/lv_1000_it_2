@@ -1,0 +1,201 @@
+{
+  "english": "week",
+  "phat_am": "[wi:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) wk tuần, tuần lễ (thời gian bảy ngày)",
+          "list_en_vn": [
+            {
+              "full_en": "what day of the week is it ?",
+              "full_vn": "hôm nay là ngày thứ mấy trong tuần?"
+            },
+            {
+              "full_en": "what day of the week was 2 July last year ?",
+              "full_vn": "ngày 2 tháng 7 năm ngoái là ngày thứ mấy trong tuần?"
+            },
+            {
+              "full_en": "last , next , this week",
+              "full_vn": "tuần trước, tuần tới, tuần này"
+            },
+            {
+              "full_en": "early next week",
+              "full_vn": "đầu tuần tới"
+            },
+            {
+              "full_en": "at the end of last week",
+              "full_vn": "cuối tuần rồi"
+            },
+            {
+              "full_en": "Sunday is the first day of the week",
+              "full_vn": "Chủ nhật là ngày đầu tiên của một tuần"
+            },
+            {
+              "full_en": "he comes to visit us once a week",
+              "full_vn": "mỗi tuần anh ấy đến thăm chúng tôi một lần"
+            },
+            {
+              "full_en": "a six week's holiday",
+              "full_vn": "đợt nghỉ phép sáu tuần"
+            },
+            {
+              "full_en": "a week ago today",
+              "full_vn": "cách đây một tuần"
+            },
+            {
+              "full_en": "three weeks ago yesterday",
+              "full_vn": "cách hôm qua ba tuần (cách đây 22 ngày)"
+            },
+            {
+              "full_en": "they're going on holiday for two weeks",
+              "full_vn": "họ sẽ đi nghỉ hai tuần"
+            },
+            {
+              "full_en": "I'll be away for no more than a week",
+              "full_vn": "Tôi sẽ đi vắng không quá một tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuần (sáu ngày trừ chủ nhật)",
+          "list_en_vn": [
+            {
+              "full_en": "during the week , the road is very busy but there is very little traffic on Sundays",
+              "full_vn": "trong tuần, đường rất nhộn nhịp nhưng ngày chủ nhật thì rất ít xe cộ qua lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuần năm ngày (trừ chủ nhật và thứ bảy)",
+          "list_en_vn": [
+            {
+              "full_en": "they never have time to go to the cinema during the week",
+              "full_vn": "trong tuần, họ không bao giờ có thì giờ đi xem chiếu bóng"
+            },
+            {
+              "full_en": "they live in Paris during the week and go to the country at the weekend",
+              "full_vn": "trong tuần họ ở Pari, cuối tuần thì họ về quê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian làm việc trong một tuần",
+          "list_one_mean": [
+            {
+              "id_full_en": "a week last Monday , yesterday ...",
+              "list_im": [
+                {
+                  "im_full_vn": "bảy ngày trước thứ hai vừa qua, trước hôm qua..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was a week yesterday (that ) we heard the news",
+                      "full_vn": "chúng tôi đã được biết tin đó tám hôm nay rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a week last Monday , yesterday ...",
+              "list_im": [
+                {
+                  "im_full_vn": "bảy ngày trước thứ hai vừa qua, trước hôm qua..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it was a week yesterday (that ) we heard the news",
+                      "full_vn": "chúng tôi đã được biết tin đó tám hôm nay rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "week in , week out",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả các tuần, không trừ tuần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Every Sunday , week in , week out , she writes to her parents",
+                      "full_vn": "Chủ nhật nào cũng vậy, không trừ tuần nào, cô ấy đều viết thư cho bố mẹ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "week in , week out",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả các tuần, không trừ tuần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Every Sunday , week in , week out , she writes to her parents",
+                      "full_vn": "Chủ nhật nào cũng vậy, không trừ tuần nào, cô ấy đều viết thư cho bố mẹ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "week after week",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hết tuần này đến tuần khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "week after week , the drought continued",
+                      "full_vn": "hạn hán kéo dài hết tuần này sang tuần khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "week after week",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hết tuần này đến tuần khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "week after week , the drought continued",
+                      "full_vn": "hạn hán kéo dài hết tuần này sang tuần khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "this day week",
+              "list_im": [
+                {
+                  "im_full_vn": "xem day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "today , tomorrow , Monday week",
+              "list_im": [
+                {
+                  "im_full_vn": "bảy ngày nữa kể từ sau hôm nay, ngày mai, thứ hai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a 35-hour week",
+              "full_vn": "tuần làm việc 35 giờ"
+            },
+            {
+              "full_en": "how many lessons are there in the school week ?",
+              "full_vn": "trong một tuần ở trường có bao nhiêu tiết học?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

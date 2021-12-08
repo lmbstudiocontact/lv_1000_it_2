@@ -1,0 +1,23 @@
+{
+  "english": "toad",
+  "phat_am": "[toud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con cóc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người ghê tởm, người đáng ghét, người đáng khinh (nhất là dùng để xúc phạm)",
+          "list_en_vn": [
+            {
+              "full_en": "you repulsive little toad !",
+              "full_vn": "mày thật là một thằng nhóc ghê tởm!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

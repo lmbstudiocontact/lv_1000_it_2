@@ -1,0 +1,122 @@
+{
+  "english": "total",
+  "phat_am": "['toutl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoàn toàn; toàn bộ; tuyệt đối",
+          "list_en_vn": [
+            {
+              "full_en": "total war",
+              "full_vn": "chiến tranh toàn diện"
+            },
+            {
+              "full_en": "total silence",
+              "full_vn": "sự im lặng hoàn toàn"
+            },
+            {
+              "full_en": "the total number of casualties",
+              "full_vn": "tổng số thương vong"
+            },
+            {
+              "full_en": "to live in total ignorance of something",
+              "full_vn": "sống hoàn toàn không biết đến cái gì"
+            },
+            {
+              "full_en": "total eclipse of the sun /moon",
+              "full_vn": "nhật thực/nguyệt thực toàn phần"
+            },
+            {
+              "full_en": "total failure",
+              "full_vn": "sự thất bại hoàn toàn"
+            },
+            {
+              "full_en": "a total waste of time",
+              "full_vn": "hoàn toàn lãng phí thời gian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổng số, toàn bộ số lượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in total",
+              "list_im": [
+                {
+                  "im_full_vn": "gộp lại, cả thảy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that will cost you 7.50 pound in total",
+                      "full_vn": "anh sẽ phải trả tất cả là 7. 50 pao"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in total",
+              "list_im": [
+                {
+                  "im_full_vn": "gộp lại, cả thảy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that will cost you 7.50 pound in total",
+                      "full_vn": "anh sẽ phải trả tất cả là 7. 50 pao"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "England scored a total of 436 runs",
+              "full_vn": "đội Anh đã ghi được tổng số 436 điểm"
+            },
+            {
+              "full_en": "what does the total come to ?",
+              "full_vn": "tổng số lên đến bao nhiêu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính tổng, đếm tổng",
+          "list_en_vn": [
+            {
+              "full_en": "to total the expenses",
+              "full_vn": "tổng cộng các món chi tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên tới, tổng số lên tới",
+          "list_en_vn": [
+            {
+              "full_en": "the costs totalled 550d",
+              "full_vn": "chi phí lên tới 550 đồng"
+            },
+            {
+              "full_en": "the visitors to the exhibition totalled 15,000",
+              "full_vn": "số người xem triển lãm lên tới 15000"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) vỡ tan tành (nhất là xe ô tô)"
+        }
+      ]
+    }
+  ]
+}

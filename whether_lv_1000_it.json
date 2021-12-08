@@ -1,0 +1,164 @@
+{
+  "english": "whether",
+  "phat_am": "['weðə]",
+  "list_type": [
+    {
+      "type": "liên từ, dùng trước một mệnh đề hoặc một động từ nguyên thể diễn đạt hoặc hàm ý một sự lựa chọn",
+      "list_m": [
+        {
+          "m_full_vn": "(sau know , doubt , wonder ...) được hay không",
+          "list_en_vn": [
+            {
+              "full_en": "he asked whether it was true",
+              "full_vn": "ông ta hỏi xem điều đó có đúng hay không"
+            },
+            {
+              "full_en": "I don't know whether I will be able to come",
+              "full_vn": "tôi chẳng biết tôi có đến được hay không"
+            },
+            {
+              "full_en": "we'll be told tomorrow whether we should take the exam or not",
+              "full_vn": "ngày mai chúng tôi sẽ được thông báo xem chúng tôi sẽ phải dự thi hay không"
+            },
+            {
+              "full_en": "I asked him whether he had done all the work himself or whether he had had any assistance",
+              "full_vn": "tôi hỏi anh ấy có phải anh ấy đã tự làm lấy mọi việc hay đã được ai giúp đỡ chăng"
+            },
+            {
+              "full_en": "we were wondering whether to go today or tomorrow",
+              "full_vn": "chúng tôi đang phân vân không biết nên đi hôm nay hoặc ngày mai"
+            },
+            {
+              "full_en": "I'm not sure whether to resign or stay on",
+              "full_vn": "tôi không chắc là nên từ chức hay ở lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sau tính từ và giới từ)",
+          "list_en_vn": [
+            {
+              "full_en": "she was undecided (about ) whether she should accept his offer",
+              "full_vn": "cô ấy lưỡng lự về việc có nên chấp nhận lời đề nghị của anh ta hay không"
+            },
+            {
+              "full_en": "he hesitated about whether to drive or to take the train",
+              "full_vn": "anh ấy không biết nên lái xe đi hay đi tàu hoả"
+            },
+            {
+              "full_en": "it all depends on whether she likes the boss or not",
+              "full_vn": "tất cả tùy thuộc vào việc cô ấy có thích ông chủ hay không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng (như) chủ ngữ hoặc bổ ngữ của câu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "whether or not",
+              "list_im": [
+                {
+                  "im_full_vn": "dù... hay không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "whether or not it rains /whether it rains or not , we're playing football on Saturday",
+                      "full_vn": "dù trời có mưa hay không, đến thứ bảy chúng tôi vẫn chơi đá bóng"
+                    },
+                    {
+                      "full_en": "tell me whether or not you're interested",
+                      "full_vn": "hãy cho tôi biết dù anh có thích hay không"
+                    },
+                    {
+                      "full_en": "I'll be happy whether or not I get the job",
+                      "full_vn": "tôi vẫn vui dù tôi có được giao công việc này hay không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "whether or not",
+              "list_im": [
+                {
+                  "im_full_vn": "dù... hay không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "whether or not it rains /whether it rains or not , we're playing football on Saturday",
+                      "full_vn": "dù trời có mưa hay không, đến thứ bảy chúng tôi vẫn chơi đá bóng"
+                    },
+                    {
+                      "full_en": "tell me whether or not you're interested",
+                      "full_vn": "hãy cho tôi biết dù anh có thích hay không"
+                    },
+                    {
+                      "full_en": "I'll be happy whether or not I get the job",
+                      "full_vn": "tôi vẫn vui dù tôi có được giao công việc này hay không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "whether or not",
+              "list_im": [
+                {
+                  "im_full_vn": "dù... hay không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "whether or not it rains /whether it rains or not , we're playing football on Saturday",
+                      "full_vn": "dù trời có mưa hay không, đến thứ bảy chúng tôi vẫn chơi đá bóng"
+                    },
+                    {
+                      "full_en": "tell me whether or not you're interested",
+                      "full_vn": "hãy cho tôi biết dù anh có thích hay không"
+                    },
+                    {
+                      "full_en": "I'll be happy whether or not I get the job",
+                      "full_vn": "tôi vẫn vui dù tôi có được giao công việc này hay không"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "whether or not",
+              "list_im": [
+                {
+                  "im_full_vn": "dù... hay không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "whether or not it rains /whether it rains or not , we're playing football on Saturday",
+                      "full_vn": "dù trời có mưa hay không, đến thứ bảy chúng tôi vẫn chơi đá bóng"
+                    },
+                    {
+                      "full_en": "tell me whether or not you're interested",
+                      "full_vn": "hãy cho tôi biết dù anh có thích hay không"
+                    },
+                    {
+                      "full_en": "I'll be happy whether or not I get the job",
+                      "full_vn": "tôi vẫn vui dù tôi có được giao công việc này hay không"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it's doubtful whether there'll be any seats left",
+              "full_vn": "không biết là liệu có còn chỗ ở rạp hay không"
+            },
+            {
+              "full_en": "the question is whether to go to Munich or Vienna",
+              "full_vn": "vấn đề là đi Munich hay đi Vienna"
+            },
+            {
+              "full_en": "whether they win or lose is all the same to me",
+              "full_vn": "đối với tôi, họ thắng hay bại thì cũng như nhau thôi (đối với tôi, họ thắng hay bại (cũng) chắng có nghĩa gì)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

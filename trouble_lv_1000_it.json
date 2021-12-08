@@ -1,0 +1,146 @@
+{
+  "english": "trouble",
+  "phat_am": "['trʌbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều lo lắng, điều phiền muộn",
+          "list_en_vn": [
+            {
+              "full_en": "to be in trouble",
+              "full_vn": "có chuyện phiền muộn, không vui; bị mắng, bị phê bình, bị phạt"
+            },
+            {
+              "full_en": "family troubles",
+              "full_vn": "những chuyện lo lắng về gia đình"
+            },
+            {
+              "full_en": "to be in trouble",
+              "full_vn": "gặp chuyện không hay; gặp chuyện rắc rối; (nói về phụ nữ chưa chồng) có chửa hoang"
+            },
+            {
+              "full_en": "to get someone into trouble",
+              "full_vn": "gây chuyện không hay cho ai, làm cho ai phải phiền muộn lo lắng; làm cho (một phụ nữ chưa chồng) có chửa"
+            },
+            {
+              "full_en": "to ask (look ) for trouble",
+              "full_vn": "(từ lóng) chuốc lấy sự phiền luỵ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm phiền, sự quấy rầy; điều phiền hà",
+          "list_en_vn": [
+            {
+              "full_en": "did it give you much trouble ?",
+              "full_vn": "cái đó có làm phiền anh nhiều không?"
+            },
+            {
+              "full_en": "I don't like putting you to so much trouble",
+              "full_vn": "tôi không thích làm phiền anh nhiều đến thế"
+            },
+            {
+              "full_en": "to spare someone trouble",
+              "full_vn": "khỏi phiền đến ai, tránh làm phiền ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chịu khó, sự cố gắng; sự khó nhọc",
+          "list_en_vn": [
+            {
+              "full_en": "to take the trouble to do something",
+              "full_vn": "chịu khó làm việc gì; mất công khó nhọc làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng bất an, tình trạng rắc rối, tình trạng lộn xộn, tình trạng rối loạn",
+          "list_en_vn": [
+            {
+              "full_en": "labour troubles",
+              "full_vn": "những vụ đình công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái khó ở, tình trạng mắc bệnh; bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "digestive troubles",
+              "full_vn": "rối loạn tiêu hoá"
+            },
+            {
+              "full_en": "children's troubles",
+              "full_vn": "bệnh trẻ em"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự hỏng hóc, sự trục trắc (của máy)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đục",
+          "list_en_vn": [
+            {
+              "full_en": "to trouble the water",
+              "full_vn": "làm cho nước đục lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm phiền, quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "may I trouble you for the pepper ?",
+              "full_vn": "phiền anh đưa cho tôi lọ hạt tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho lo lắng, làm phiền muộn, làm băn khoăn",
+          "list_en_vn": [
+            {
+              "full_en": "don't trouble yourself about that",
+              "full_vn": "đừng băn khoăn lo lắng về chuyện đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho khổ sở, làm cho đau đớn",
+          "list_en_vn": [
+            {
+              "full_en": "the child is troubled by (with ) a cough every winter",
+              "full_vn": "mùa rét nào đứa bé cũng khổ vì bệnh ho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lo nghĩ, lo lắng, băn khoăn, bận tâm",
+          "list_en_vn": [
+            {
+              "full_en": "don't trouble about me",
+              "full_vn": "đừng lo lắng gì về tôi cả"
+            },
+            {
+              "full_en": "oh , don't trouble , thanks",
+              "full_vn": "thôi khỏi phiền, xin cảm ơn anh; xin anh đừng bận tâm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "english": "year",
+  "phat_am": "[jiə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời gian trái đất dùng để quay một vòng quanh mặt trời, khoảng 365 ngày; năm"
+        },
+        {
+          "m_full_vn": "(cũng) calendar year khoảng thời gian từ 1 tháng giêng đến 31 tháng mười hai, tức là 365 ngày (hay 366 trong năm nhuận) chia ra 12 tháng; năm; năm lịch",
+          "list_en_vn": [
+            {
+              "full_en": "in the year 1945",
+              "full_vn": "trong năm 1945"
+            },
+            {
+              "full_en": "this year",
+              "full_vn": "năm nay"
+            },
+            {
+              "full_en": "the year after next",
+              "full_vn": "sang năm nữa"
+            },
+            {
+              "full_en": "a good year for cheap vegetables",
+              "full_vn": "một năm rau rẻ mạt (rau được mùa nên giá rất hạ)"
+            },
+            {
+              "full_en": "the academic year",
+              "full_vn": "năm học"
+            },
+            {
+              "full_en": "the financial /fiscal /tax year",
+              "full_vn": "năm tài chính/tiền tệ/thuế"
+            },
+            {
+              "full_en": "first-year students",
+              "full_vn": "các sinh viên năm thứ nhất"
+            },
+            {
+              "full_en": "solar year",
+              "full_vn": "năm dương lịch"
+            },
+            {
+              "full_en": "lunar year",
+              "full_vn": "năm âm lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một thời kỳ 365 ngày liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "it's just a year (today ) since I arrived here",
+              "full_vn": "(đến hôm nay) đã đúng một năm từ khi tôi đến đây"
+            },
+            {
+              "full_en": "I arrived a year ago (today )",
+              "full_vn": "ngày này năm ngoái tôi đã đến đây"
+            },
+            {
+              "full_en": "she's worked there for ten years",
+              "full_vn": "chị ấy làm việc ở đó đã được mười năm"
+            },
+            {
+              "full_en": "in a year's time they're getting married",
+              "full_vn": "họ lấy nhau trong khoảng thời gian một năm"
+            },
+            {
+              "full_en": "a five-year forecast",
+              "full_vn": "sự dự báo cho năm năm"
+            },
+            {
+              "full_en": "in the year one",
+              "full_vn": "vào năm đầu công lịch; (nghĩa bóng) ngày xửa ngày xưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "twenty years old /of age",
+              "full_vn": "hai mươi tuổi"
+            },
+            {
+              "full_en": "a seventy-year-old man",
+              "full_vn": "một cụ già 70 tuổi"
+            },
+            {
+              "full_en": "she looks young for her years /for a woman of her years",
+              "full_vn": "bà ấy trông còn trẻ so với tuổi/so với phụ nữ cùng tuổi"
+            },
+            {
+              "full_en": "he died in his sixtieth year",
+              "full_vn": "ông ấy từ trần vào tuổi sáu mươi"
+            },
+            {
+              "full_en": "the weight of years",
+              "full_vn": "ảnh hưởng của tuổi tác, tuổi già sức yếu"
+            },
+            {
+              "full_en": "well on in years",
+              "full_vn": "đứng tuổi"
+            },
+            {
+              "full_en": "advanced in years",
+              "full_vn": "già, có tuổi"
+            },
+            {
+              "full_en": "to die full of years",
+              "full_vn": "chết già"
+            },
+            {
+              "full_en": "old beyond one's years",
+              "full_vn": "già trước tuổi"
+            },
+            {
+              "full_en": "to put years on somebody",
+              "full_vn": "làm cho ai già đi"
+            },
+            {
+              "full_en": "to take years off somebody",
+              "full_vn": "làm cho ai trẻ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) một thời gian dài; lâu rồi; nhiều năm",
+          "list_one_mean": [
+            {
+              "id_full_en": "it heaps years on me",
+              "list_im": [
+                {
+                  "im_full_vn": "cái đó làm cho tôi chán lắm; cái đó làm phiền tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "age /years of discretion",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi khôn lớn, tuổi trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all (the ) year round",
+              "list_im": [
+                {
+                  "im_full_vn": "quanh năm suốt tháng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he swims in the sea all year round",
+                      "full_vn": "anh ấy tắm biển quanh năm suốt tháng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all (the ) year round",
+              "list_im": [
+                {
+                  "im_full_vn": "quanh năm suốt tháng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he swims in the sea all year round",
+                      "full_vn": "anh ấy tắm biển quanh năm suốt tháng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "donkey's years",
+              "list_im": [
+                {
+                  "im_full_vn": "một thời gian rất dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man /woman /car ... of the year",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật nổi bật trong năm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "TV personality of the year",
+                      "full_vn": "nhân vật truyền hình nổi bật trong năm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "man /woman /car ... of the year",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật nổi bật trong năm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "TV personality of the year",
+                      "full_vn": "nhân vật truyền hình nổi bật trong năm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not /never in a hundred years",
+              "list_im": [
+                {
+                  "im_full_vn": "dứt khoát không bao giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ring out the old year and ring in the new",
+              "list_im": [
+                {
+                  "im_full_vn": "thông báo năm cũ kết thúc và chào mừng năm mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the year dot",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây rất lâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've been going there every summer since the year dot",
+                      "full_vn": "cách đây rất lâu, tôi thường đến đó mỗi mùa hè"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the year dot",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây rất lâu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've been going there every summer since the year dot",
+                      "full_vn": "cách đây rất lâu, tôi thường đến đó mỗi mùa hè"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the turn of the year /century",
+              "list_im": [
+                {
+                  "im_full_vn": "xem turn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I've worked for this firm for years (and years )",
+              "full_vn": "tôi làm việc cho công ty này nhiều năm rồi"
+            },
+            {
+              "full_en": "it's years since we last met",
+              "full_vn": "đã lâu rồi kể từ ngày chúng ta gặp nhau lần cuối"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

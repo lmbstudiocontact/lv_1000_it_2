@@ -1,0 +1,136 @@
+{
+  "english": "two",
+  "phat_am": "[tu:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "số hai",
+          "list_en_vn": [
+            {
+              "full_en": "he is two",
+              "full_vn": "nó lên hai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) có hai cái thuộc một thứ nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "blue and white two-tone shoes",
+              "full_vn": "giầy hai màu xanh và trắng"
+            },
+            {
+              "full_en": "two-room flat",
+              "full_vn": "một căn hộ hai buồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cặp, đôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "by /in twos and threes",
+              "list_im": [
+                {
+                  "im_full_vn": "từng hai ba cái, hai ba cái một lúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a day two",
+              "list_im": [
+                {
+                  "im_full_vn": "một vài ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a moment two",
+              "list_im": [
+                {
+                  "im_full_vn": "một vài lúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a pound two",
+              "list_im": [
+                {
+                  "im_full_vn": "một vài pao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in two",
+              "list_im": [
+                {
+                  "im_full_vn": "làm đôi; thành hai phần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it takes two to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tại anh tại ả; tại cả đôi bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put two and two together",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ thế mà suy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that makes two of us",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hai chúng ta là một"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số hai ( 2)"
+        },
+        {
+          "m_full_vn": "đôi, cặp",
+          "list_en_vn": [
+            {
+              "full_en": "in twos ; two and two ; two by two",
+              "full_vn": "từng đôi một, từng cặp một"
+            },
+            {
+              "full_en": "one or two",
+              "full_vn": "một vài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quân hai (quân bài); con hai (súc sắc...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in two twos",
+              "list_im": [
+                {
+                  "im_full_vn": "trong nháy mắt, chỉ trong một loáng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

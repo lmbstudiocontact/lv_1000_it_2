@@ -1,0 +1,61 @@
+{
+  "english": "tube",
+  "phat_am": "[tju:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống (tự nhiên hoặc nhân tạo)",
+          "list_en_vn": [
+            {
+              "full_en": "steel tube",
+              "full_vn": "ống thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "săm, ruột (xe ô tô...) (như) inner tube"
+        },
+        {
+          "m_full_vn": "ống tuýp (dùng để đựng các thứ bột nhão.. sẵn sàng để dùng)",
+          "list_en_vn": [
+            {
+              "full_en": "tubes of glue",
+              "full_vn": "tuýp đựng hồ dán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the tube ) (thông tục) mê-trô, xe điện ngầm (như) underground , subway"
+        },
+        {
+          "m_full_vn": "(như) cathoderay tube"
+        },
+        {
+          "m_full_vn": "ống phóng điện tử (đèn hình..)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đèn điện tử"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) ống, vòi (cơ quan có hình ống rỗng trong cơ thể)"
+        },
+        {
+          "m_full_vn": "(thực vật học) ống tràng (của hoa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ráp ống, đặt ống, gắn ống (vào nồi hơi..)"
+        },
+        {
+          "m_full_vn": "làm cho thành hình ống, gò thành hình ống"
+        }
+      ]
+    }
+  ]
+}

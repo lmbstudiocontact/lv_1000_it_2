@@ -1,0 +1,37 @@
+{
+  "english": "undergo",
+  "phat_am": "[,ʌndə'gɔn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ underwent ; undergone",
+      "list_m": [
+        {
+          "m_full_vn": "chịu đựng, trải qua (khó khăn, đau đớn)",
+          "list_en_vn": [
+            {
+              "full_en": "to undergone hard trials",
+              "full_vn": "chịu đựng những thử thách gay go"
+            },
+            {
+              "full_en": "to undergo great hardship , suffering , privation",
+              "full_vn": "chịu gian khổ, đau khổ, thiếu thốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu, bị (đưa vào một quá trình..), phải trải qua",
+          "list_en_vn": [
+            {
+              "full_en": "to undergone a great change",
+              "full_vn": "bị thay đổi lớn"
+            },
+            {
+              "full_en": "to undergo major surgery , reform , repair",
+              "full_vn": "trải qua một cuộc đại phẫu, cải cách lớn, đại tu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

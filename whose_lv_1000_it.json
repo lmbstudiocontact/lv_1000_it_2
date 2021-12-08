@@ -1,0 +1,41 @@
+{
+  "english": "whose",
+  "phat_am": "[hu:z]",
+  "list_type": [
+    {
+      "type": "tính từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "của ai",
+          "list_en_vn": [
+            {
+              "full_en": "whose book are you reading ?",
+              "full_vn": "anh đọc cuốn sách của ai đấy?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ nghi vấn"
+    },
+    {
+      "type": "từ hạn định",
+      "list_m": [
+        {
+          "m_full_vn": "của ai; của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "this is the man whose house we have just passed",
+              "full_vn": "đây là người mà chúng ta vừa đi qua nhà"
+            },
+            {
+              "full_en": "this is the house whose owner is very rich",
+              "full_vn": "đây là ngôi nhà mà chủ nhân rất giàu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "english": "win",
+  "phat_am": "[win]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thắng cuộc; bàn thắng",
+          "list_en_vn": [
+            {
+              "full_en": "our team has had three wins and no losses this season",
+              "full_vn": "mùa này đội chúng tôi đã thắng ba trận và không thua trận nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ won",
+      "list_m": [
+        {
+          "m_full_vn": "chiếm, đoạt, thu được, nhận được, kiếm được, có được",
+          "list_en_vn": [
+            {
+              "full_en": "to win a prize",
+              "full_vn": "đoạt giải"
+            },
+            {
+              "full_en": "to win a gold medal",
+              "full_vn": "đạt được huy chương vàng"
+            },
+            {
+              "full_en": "The Conservatives won the seat from Labour at the last election",
+              "full_vn": "Đảng bảo thủ chiếm được ghế đó (trong Quốc hội) của Công đảng trong vòng bầu cử cuối cùng"
+            },
+            {
+              "full_en": "to win one's bread",
+              "full_vn": "làm ăn sinh sống"
+            },
+            {
+              "full_en": "to win glory",
+              "full_vn": "đạt được vinh quang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắng cuộc; thắng",
+          "list_en_vn": [
+            {
+              "full_en": "to win a race",
+              "full_vn": "thắng cuộc đua"
+            },
+            {
+              "full_en": "to win a battle",
+              "full_vn": "thắng trận"
+            },
+            {
+              "full_en": "to win the war",
+              "full_vn": "chiến thắng"
+            },
+            {
+              "full_en": "to win the day ; to win the field",
+              "full_vn": "thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu phục, tranh thủ, lôi kéo",
+          "list_en_vn": [
+            {
+              "full_en": "to win all hearts",
+              "full_vn": "thu phục được lòng mọi người"
+            },
+            {
+              "full_en": "to win someone's confidence",
+              "full_vn": "tranh thủ được lòng tin cậy của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt đến, đến",
+          "list_en_vn": [
+            {
+              "full_en": "to win the summit",
+              "full_vn": "đạt tới đỉnh"
+            },
+            {
+              "full_en": "to win the shore",
+              "full_vn": "tới bờ, cập bến"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắng cuộc, thắng trận",
+          "list_en_vn": [
+            {
+              "full_en": "which side won ?",
+              "full_vn": "bên nào thắng?"
+            },
+            {
+              "full_en": "to win hands down",
+              "full_vn": "thắng dễ dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + upon ) càng ngày càng lôi kéo; thuyết phục được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to win back",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy lại, chiếm lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win out",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) thắng cuộc, thắng trận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win over",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi kéo về"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win through",
+              "list_im": [
+                {
+                  "im_full_vn": "khắc phục, chiến thắng (khó khăn)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Marxism-Leninism is winning upon millions of people",
+              "full_vn": "chủ nghĩa Mác Lê-nin ngày càng lôi kéo được hàng triệu người"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

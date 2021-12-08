@@ -1,0 +1,99 @@
+{
+  "english": "which",
+  "phat_am": "[wit∫]",
+  "list_type": [
+    {
+      "type": "tính từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để đề nghị ai chỉ rõ một hoặc nhiều người hoặc vật trong một số lượng hạn chế) cái nào; người nào",
+          "list_en_vn": [
+            {
+              "full_en": "Which way is quicker - by bus or by train ?",
+              "full_vn": "Đường nào thì nhanh hơn - bằng xe búyt hay bằng xe lửa?"
+            },
+            {
+              "full_en": "Which car is yours ? The Ford or the Volvo?",
+              "full_vn": "Xe nào là của anh? Ford hay Volvo?"
+            },
+            {
+              "full_en": "Which Mr Smith do you mean - the one who teaches history or the one who teaches music ?",
+              "full_vn": "Anh muốn nói tới ông Smith nào - người dạy lịch sử hay người dạy nhạc?"
+            },
+            {
+              "full_en": "Which languages did you study at school ?",
+              "full_vn": "Anh đã học những thứ tiếng gì ở trường?"
+            },
+            {
+              "full_en": "Ask him which platform the London train leaves from",
+              "full_vn": "Hỏi anh ấy xem tàu đi Luân Đôn rời ga từ bục sân ga nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ quan hệ"
+    },
+    {
+      "type": "đại từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc vật nào (trong một số lượng hạn chế)",
+          "list_en_vn": [
+            {
+              "full_en": "Which is your favourite subject ?",
+              "full_vn": "Môn anh thích nhất là môn nào?"
+            },
+            {
+              "full_en": "Which is your car ? The Ford or the Volvo?",
+              "full_vn": "Xe của anh là xe nào? Ford hay Volvo?"
+            },
+            {
+              "full_en": "Which of the boys is tallest ?",
+              "full_vn": "Ai cao nhất trong số các cậu con trai đó?"
+            },
+            {
+              "full_en": "Here are the chairs . Tell me which are worth buying",
+              "full_vn": "Đây là những chiếc ghế tựa. Hãy cho tôi biết những cái nào đáng mua"
+            },
+            {
+              "full_en": "The twins are so much alike that I can't tell which is which",
+              "full_vn": "Hai đứa sinh đôi giống nhau đến nỗi tôi không phân biệtđươc đứa nào với đứa nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để nhắc tới cái gì trước đó đã nói tới)",
+          "list_en_vn": [
+            {
+              "full_en": "Take the book which is lying on the table",
+              "full_vn": "Hãy lấy quyển sách đang nằm trên bàn"
+            },
+            {
+              "full_en": "A house which overlooks the park will cost more",
+              "full_vn": "Ngôi nhà nhìn ra công viên ắt đắt tiền hơn"
+            },
+            {
+              "full_en": "Read the passage to which I referred in my talk",
+              "full_vn": "Hãy đọc cái đoạn mà tôi đã nhắc đếntrong cuộc nói chuyện"
+            },
+            {
+              "full_en": "His best film , which won several awards , was about the life of Gandhi",
+              "full_vn": "Bộ phim hay nhất của ông ấy, đã giành được nhiều giải thưởng, là về cuộc đời của Gandhi"
+            },
+            {
+              "full_en": "His new car , for which he paid 50000 francs , has already had to be repaired",
+              "full_vn": "Chiếc xe ô tô mới mà anh ta phải trả 50000 frăng, cũng đã phải đem đi sửa chữa rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

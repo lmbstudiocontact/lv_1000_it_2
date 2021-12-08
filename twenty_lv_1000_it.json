@@ -1,0 +1,44 @@
+{
+  "english": "twenty",
+  "phat_am": "['twenti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai mươi"
+        },
+        {
+          "m_full_vn": "(trong tính từ ghép) có hai mươi cái gì đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I have told him twenty times",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi đã nói với nó nhiều lần"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a twenty-volume dictionary",
+              "full_vn": "một quyển từ điển hai mươi tập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số hai mươi ( 20)"
+        },
+        {
+          "m_full_vn": "( the twenties ) ( số nhiều) những con số, năm, nhiệt độ từ 20 đến 29"
+        }
+      ]
+    }
+  ]
+}

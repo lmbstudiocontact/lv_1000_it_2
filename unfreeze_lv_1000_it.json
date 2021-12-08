@@ -1,0 +1,37 @@
+{
+  "english": "unfreeze",
+  "phat_am": "[,ʌn'frouzn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ unfroze , unfrozen",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho tan ra, làm cho chảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "to unfreeze some chops",
+              "full_vn": "làm băng ở mấy miếng sườn đông lạnh tan ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi bỏ, hủy bỏ (sự kiểm soát chính thức về (kinh tế)..)",
+          "list_en_vn": [
+            {
+              "full_en": "unfreeze trade restrictions",
+              "full_vn": "bãi bỏ các hạn chế về mậu dịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tan ra, chảy ra"
+        }
+      ]
+    }
+  ]
+}

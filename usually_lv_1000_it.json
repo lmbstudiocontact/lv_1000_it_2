@@ -1,0 +1,28 @@
+{
+  "english": "usually",
+  "phat_am": "['ju:ʒəli]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo cách thông thường; thường thường",
+          "list_en_vn": [
+            {
+              "full_en": "he's usually early",
+              "full_vn": "nó thường dậy sớm"
+            },
+            {
+              "full_en": "the canteen is more than usually busy today",
+              "full_vn": "hôm nay căng tin đông hơn thường lệ"
+            },
+            {
+              "full_en": "what do you usually do after lunch ?",
+              "full_vn": "anh thường hay làm gì sau khi ăn cơm trưa?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

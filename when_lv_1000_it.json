@@ -1,0 +1,109 @@
+{
+  "english": "when",
+  "phat_am": "[wen]",
+  "list_type": [
+    {
+      "type": "phó từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "vào lúc nào, vào dịp nào, khi nào, hồi nào, bao giờ",
+          "list_en_vn": [
+            {
+              "full_en": "when will you go ?",
+              "full_vn": "khi nào anh sẽ đi?"
+            },
+            {
+              "full_en": "when did he die ?",
+              "full_vn": "ông ta chết lúc nào?"
+            },
+            {
+              "full_en": "I don't know when he died",
+              "full_vn": "tôi chẳng biết ông ta chết hồi nào"
+            },
+            {
+              "full_en": "since when has he been missing ?",
+              "full_vn": "anh ấy mất tích từ lúc nào?"
+            },
+            {
+              "full_en": "till when ?",
+              "full_vn": "cho đến bao giờ?"
+            },
+            {
+              "full_en": "he does not remember when he did it",
+              "full_vn": "nó không nhớ được nó làm cái đó hồi nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng sau time , day , month ...) vào lúc đó; mà",
+          "list_en_vn": [
+            {
+              "full_en": "now is the time when you must work",
+              "full_vn": "bây giờ đã đến lúc mà anh phải làm việc"
+            },
+            {
+              "full_en": "do you remember the day when I met you the first time ?",
+              "full_vn": "anh có nhớ cái hôm mà tôi gặp anh lần đầu không?"
+            },
+            {
+              "full_en": "Sunday is the day when very few people go to work",
+              "full_vn": "chủ nhật là ngày mà rất ít người đi làm"
+            },
+            {
+              "full_en": "there are times when I wonder why I do this job",
+              "full_vn": "có những lúc tôi không hiểu tại sao tôi lại làm nghề này"
+            },
+            {
+              "full_en": "it was the sort of morning when everything goes wrong",
+              "full_vn": "đó là một buổi sáng mà mọi thứ đều trục trặc"
+            },
+            {
+              "full_en": "the Queen's last visit was in May , when she opened the new hospital",
+              "full_vn": "chuyến thăm mới đây của Nữ hoàng là vào tháng năm, khi bà khai trương một bệnh viện mới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "khi, lúc, hồi",
+          "list_en_vn": [
+            {
+              "full_en": "when I was a boy",
+              "full_vn": "khi tôi còn bé"
+            },
+            {
+              "full_en": "when (I was ) at school",
+              "full_vn": "hồi tôi còn đi học"
+            },
+            {
+              "full_en": "it was raining when we arrived",
+              "full_vn": "khi chúng tôi đến thì trời đang mưa"
+            },
+            {
+              "full_en": "when visiting London, I like to travel by bus",
+              "full_vn": "khi viếng thăm Luân Đôn, tôi thích đi xe búyt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bởi vì, thấy rằng, khi mà",
+          "list_en_vn": [
+            {
+              "full_en": "how can they learn anything when they spend all their spare time watching television ?",
+              "full_vn": "làm sao chúng có thể học được cái gì khi mà chúng bỏ cả thời gian rỗi để xem truyền hình?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

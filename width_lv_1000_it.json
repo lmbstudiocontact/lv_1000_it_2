@@ -1,0 +1,55 @@
+{
+  "english": "width",
+  "phat_am": "[widθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chất rộng",
+          "list_en_vn": [
+            {
+              "full_en": "a road of great width",
+              "full_vn": "con đường rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề rộng, bề ngang",
+          "list_en_vn": [
+            {
+              "full_en": "10 metres in width",
+              "full_vn": "rộng 10 mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khổ (vải)",
+          "list_en_vn": [
+            {
+              "full_en": "double width",
+              "full_vn": "khổ dôi"
+            },
+            {
+              "full_en": "to join two widths of cloth",
+              "full_vn": "nối hai khổ vải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tính chất rộng rãi",
+          "list_en_vn": [
+            {
+              "full_en": "width of mind",
+              "full_vn": "óc rộng rãi"
+            },
+            {
+              "full_en": "width of views",
+              "full_vn": "quan điểm rộng rãi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

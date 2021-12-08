@@ -1,0 +1,28 @@
+{
+  "english": "toxic",
+  "phat_am": "['tɔksik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "độc",
+          "list_en_vn": [
+            {
+              "full_en": "toxic product",
+              "full_vn": "chất độc"
+            },
+            {
+              "full_en": "toxic drugs",
+              "full_vn": "thuốc độc"
+            },
+            {
+              "full_en": "the toxic effects of alcohol",
+              "full_vn": "độc hại của rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

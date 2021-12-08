@@ -1,0 +1,29 @@
+{
+  "english": "unfriendly",
+  "phat_am": "[ʌn'frendli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + to/towards somebody ) đối địch, không thân thiện, không có thiện cảm",
+          "list_en_vn": [
+            {
+              "full_en": "an unfriendly look",
+              "full_vn": "một cái nhìn không thân thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất lợi, không thuận lợi",
+          "list_en_vn": [
+            {
+              "full_en": "an unfriendly circumstance",
+              "full_vn": "một trường hợp bất lợi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

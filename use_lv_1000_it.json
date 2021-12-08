@@ -1,0 +1,495 @@
+{
+  "english": "use",
+  "phat_am": "['ju:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sử dụng hoặc được sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "the use of electricity for heating",
+              "full_vn": "sự dùng điện để sưởi"
+            },
+            {
+              "full_en": "to learn the use of a lathe",
+              "full_vn": "học cách sử dụng máy tiện"
+            },
+            {
+              "full_en": "an ingenious use of wind power",
+              "full_vn": "một cách sử dụng năng lượng gió tài tình"
+            },
+            {
+              "full_en": "the use of force /terrorism /blackmail",
+              "full_vn": "sự sử dụng bạo lực/kế khủng bố/kế tống tiền"
+            },
+            {
+              "full_en": "to keep something for one's own use",
+              "full_vn": "giữ cái gì để dùng riêng"
+            },
+            {
+              "full_en": "funds for use in emergencies",
+              "full_vn": "quỹ để dùng khi khẩn cấp"
+            },
+            {
+              "full_en": "the ointment is for external use only",
+              "full_vn": "thuốc mỡ này chỉ dùng để bôi ngoài da thôi"
+            },
+            {
+              "full_en": "bought for use , not for ornament",
+              "full_vn": "mua để dùng, không phải để trang trí"
+            },
+            {
+              "full_en": "the lock has broken through constant use",
+              "full_vn": "khoá bị hỏng do dùng thường xuyên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mục đích; công việc mà một người hoặc vật có thể làm được",
+          "list_en_vn": [
+            {
+              "full_en": "a tool with many uses",
+              "full_vn": "dụng cụ đa năng"
+            },
+            {
+              "full_en": "to find a new use for something",
+              "full_vn": "tìm được công dụng mới cho cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền sử dụng cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to allow a tenant the use of the garden",
+              "full_vn": "cho phép người thuê được quyền sử dụng khu vườn"
+            },
+            {
+              "full_en": "I've the use of the car this week",
+              "full_vn": "tuần này tôi được quyền dùng xe ô tô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "năng lực sử dụng cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to have full use of one's faculties",
+              "full_vn": "có đầy đủ năng lực sử dụng các khả năng của mình"
+            },
+            {
+              "full_en": "to lose the use of one's legs",
+              "full_vn": "mất năng lực sử dụng đôi chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá trị hoặc lợi ích; tính hữu ích",
+          "list_en_vn": [
+            {
+              "full_en": "what's the use of worrying about it ?",
+              "full_vn": "lo lắng có ích gì?"
+            },
+            {
+              "full_en": "it's no use pretending you didn't know",
+              "full_vn": "anh làm ra vẻ không biết thì cũng chẳng ích gì"
+            },
+            {
+              "full_en": "you're no use in the choir - you can't sing a note !",
+              "full_vn": "anh tham gia ban đồng ca chẳng ích lợi gì - một nốt nhạc mà anh cũng chẳng biết hát nữa là!"
+            },
+            {
+              "full_en": "recycled materials are mostly of limited use",
+              "full_vn": "vật liệu dùng lại thường có giá trị hạn chế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập quán, tục lệ hoặc thói quen; cách dùng thông thường hoặc quen thuộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come into /go out of use",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu/hết được sử dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have no use for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "không ưa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have no use for something",
+              "list_im": [
+                {
+                  "im_full_vn": "không cần dùng cái gì nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in use",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được sử dụng; đang dùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best use of something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make use of something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng hoặc được lợi từ cái gì/ai; lợi dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "make full use of every chance you have to speak English",
+                      "full_vn": "hãy tận dụng mọi cơ hội có được để nói tiếng Anh"
+                    },
+                    {
+                      "full_en": "we'll make good use of her talents",
+                      "full_vn": "chúng tôi sẽ tận dụng tài năng của cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make use of something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng hoặc được lợi từ cái gì/ai; lợi dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "make full use of every chance you have to speak English",
+                      "full_vn": "hãy tận dụng mọi cơ hội có được để nói tiếng Anh"
+                    },
+                    {
+                      "full_en": "we'll make good use of her talents",
+                      "full_vn": "chúng tôi sẽ tận dụng tài năng của cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make use of something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng hoặc được lợi từ cái gì/ai; lợi dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "make full use of every chance you have to speak English",
+                      "full_vn": "hãy tận dụng mọi cơ hội có được để nói tiếng Anh"
+                    },
+                    {
+                      "full_en": "we'll make good use of her talents",
+                      "full_vn": "chúng tôi sẽ tận dụng tài năng của cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no earthly use",
+              "list_im": [
+                {
+                  "im_full_vn": "xem earthly"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of use",
+              "list_im": [
+                {
+                  "im_full_vn": "có ích; hữu ích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "these maps might be of (some ) use to you on your trip",
+                      "full_vn": "những bản đồ này có thể sẽ có ích cho anh trong chuyến đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "of use",
+              "list_im": [
+                {
+                  "im_full_vn": "có ích; hữu ích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "these maps might be of (some ) use to you on your trip",
+                      "full_vn": "những bản đồ này có thể sẽ có ích cho anh trong chuyến đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put something to good use",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he'll be able to put his experience in the new job",
+                      "full_vn": "anh ta sẽ tận dụng được kinh nghiệm bản thân trong công việc mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put something to good use",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he'll be able to put his experience in the new job",
+                      "full_vn": "anh ta sẽ tận dụng được kinh nghiệm bản thân trong công việc mới"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "long use has accustomed me to it",
+              "full_vn": "dùng riết rồi tôi cũng quen với cái đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng cái gì cho một mục đích; đưa cái gì vào sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "do you know how to use a lathe ?",
+              "full_vn": "anh biết cách dùng máy tiện hay không?"
+            },
+            {
+              "full_en": "use your common sense !",
+              "full_vn": "hãy vận dụng cái lương tri thông thường của anh!"
+            },
+            {
+              "full_en": "may I use your phone ?",
+              "full_vn": "tôi dùng máy điện thoại của ông được không ạ?"
+            },
+            {
+              "full_en": "a hammer is used for driving in nails",
+              "full_vn": "búa được dùng để đóng đinh"
+            },
+            {
+              "full_en": "she used her unmarried names for professional purposes",
+              "full_vn": "bà ta dùng cái tên khi chưa lấy chồng của mình cho những mục đích nghề nghiệp"
+            },
+            {
+              "full_en": "I use my bike for (going ) shopping",
+              "full_vn": "tôi dùng xe đạp đi mua hàng"
+            },
+            {
+              "full_en": "we used the money to set up an irrigation project",
+              "full_vn": "chúng tôi dùng tiền để lập một đề án thủy lợi"
+            },
+            {
+              "full_en": "may I use your name as a reference ?",
+              "full_vn": "tôi dùng tên anh như người chứng nhận được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối xử, đối đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to use one's friends well",
+              "full_vn": "cư xử tốt với bạn bè"
+            },
+            {
+              "full_en": "he has used her shamefully",
+              "full_vn": "nó đối xử với cô ta một cách đáng hổ thẹn"
+            },
+            {
+              "full_en": "he thinks himself ill-used",
+              "full_vn": "nó cho rằng nó bị bạc đãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bóc lột một cách ích kỷ; lợi dụng",
+          "list_en_vn": [
+            {
+              "full_en": "he felt used by her",
+              "full_vn": "nó cảm thấy bị cô ta lợi dụng"
+            },
+            {
+              "full_en": "he used the bad weather as an excuse for not coming",
+              "full_vn": "nó lợi dụng thời tiết xấu làm cái cớ để không đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiêu dùng; tiêu thụ",
+          "list_en_vn": [
+            {
+              "full_en": "use the milk sparingly , there's not much left",
+              "full_vn": "hãy dùng sữa dè xẻn, không còn lại bao nhiêu đâu"
+            },
+            {
+              "full_en": "the car used a gallon of petrol for the journey",
+              "full_vn": "xe ô tô dùng hết một galông xăng cho chuyến đi này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) hút (thuốc lá)",
+          "list_one_mean": [
+            {
+              "id_full_en": "I could use a drink",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi rất muốn uống một cái gì đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "boy , could I use hot bath ?",
+                      "full_vn": "này anh bạn, tôi muốn tắm nước nóng!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "I could use a drink",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi rất muốn uống một cái gì đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "boy , could I use hot bath ?",
+                      "full_vn": "này anh bạn, tôi muốn tắm nước nóng!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use one's loaf",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ có kết quả, sử dụng trí thông minh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use something up",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've used up all the glue",
+                      "full_vn": "tôi đã dùng hết sạch keo dán"
+                    },
+                    {
+                      "full_en": "she used up the chicken bones to make soup",
+                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
+                    },
+                    {
+                      "full_en": "to use up all one's strength /energy",
+                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use something up",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've used up all the glue",
+                      "full_vn": "tôi đã dùng hết sạch keo dán"
+                    },
+                    {
+                      "full_en": "she used up the chicken bones to make soup",
+                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
+                    },
+                    {
+                      "full_en": "to use up all one's strength /energy",
+                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use something up",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've used up all the glue",
+                      "full_vn": "tôi đã dùng hết sạch keo dán"
+                    },
+                    {
+                      "full_en": "she used up the chicken bones to make soup",
+                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
+                    },
+                    {
+                      "full_en": "to use up all one's strength /energy",
+                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use something up",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng (vật liệu...) chjo đến hết không còn gì, tận dụng; dùng hoặc làm cho cái gì mệt đến kiệt sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've used up all the glue",
+                      "full_vn": "tôi đã dùng hết sạch keo dán"
+                    },
+                    {
+                      "full_en": "she used up the chicken bones to make soup",
+                      "full_vn": "cô ta tận dụng xương gà để nấu súp"
+                    },
+                    {
+                      "full_en": "to use up all one's strength /energy",
+                      "full_vn": "dùng hết sức mạnh/nghị lực của mình"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

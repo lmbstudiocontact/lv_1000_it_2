@@ -1,0 +1,212 @@
+{
+  "english": "tread",
+  "phat_am": "[tred]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bước đi; cách đi; dáng đi",
+          "list_en_vn": [
+            {
+              "full_en": "a firm tread",
+              "full_vn": "dáng đi vững chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng chân bước",
+          "list_en_vn": [
+            {
+              "full_en": "heavy tread",
+              "full_vn": "tiếng chân bước nặng nề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) sự đạp mái"
+        },
+        {
+          "m_full_vn": "mặt bậc cầu thang; tấm (cao su...) phủ bậc cầu thang"
+        },
+        {
+          "m_full_vn": "đế ủng"
+        },
+        {
+          "m_full_vn": "ta lông lốp xe"
+        },
+        {
+          "m_full_vn": "mặt đường ray"
+        },
+        {
+          "m_full_vn": "phôi (trong quả trứng)"
+        },
+        {
+          "m_full_vn": "khoảng cách bàn đạp (xe đạp); khoảng cách trục (xe ô tô)"
+        }
+      ]
+    },
+    {
+      "type": "động từ trod ; trodden",
+      "list_m": [
+        {
+          "m_full_vn": "đi, bước lên, giẫm lên, đặt chân lên",
+          "list_en_vn": [
+            {
+              "full_en": "to tread heavily",
+              "full_vn": "đi nặng nề"
+            },
+            {
+              "full_en": "to tread unknown ground",
+              "full_vn": "bước chân lên một mảnh đất xa lạ"
+            },
+            {
+              "full_en": "don't tread on the flowers",
+              "full_vn": "đừng giẫm lên hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạp (nho để làm rượu...)"
+        },
+        {
+          "m_full_vn": "đạp mái (gà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tread down",
+              "list_im": [
+                {
+                  "im_full_vn": "đạp lên, giẫm lên; (nghĩa bóng) chà đạp, giày xéo, áp chế; khinh rẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread in",
+              "list_im": [
+                {
+                  "im_full_vn": "dận lún xuống, đạp lún xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread out",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy chân di cho tắt, giẫm cho tắt (ngọn lửa); (nghĩa bóng) dập tắt, trấn áp (cuộc nổi dậy)"
+                },
+                {
+                  "im_full_vn": "đạp (nho để làm rượu...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread out",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy chân di cho tắt, giẫm cho tắt (ngọn lửa); (nghĩa bóng) dập tắt, trấn áp (cuộc nổi dậy)"
+                },
+                {
+                  "im_full_vn": "đạp (nho để làm rượu...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread lightly",
+              "list_im": [
+                {
+                  "im_full_vn": "đi nhẹ nhàng; (nghĩa bóng) làm việc thận trọng dè dặt; đề cập một cách dè dặt (đến một vấn đề khó khăn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread in someone's footsteps",
+              "list_im": [
+                {
+                  "im_full_vn": "theo vết chân ai, bắt chước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on someone's corns (toes )",
+              "list_im": [
+                {
+                  "im_full_vn": "giẫm lên ngón chân ai; (nghĩa bóng) làm mếch lòng ai, chạm lòng tự ái của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tead on the heels of",
+              "list_im": [
+                {
+                  "im_full_vn": "bám sát, theo sát gót"
+                },
+                {
+                  "im_full_vn": "theo dõi (sự việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tead on the heels of",
+              "list_im": [
+                {
+                  "im_full_vn": "bám sát, theo sát gót"
+                },
+                {
+                  "im_full_vn": "theo dõi (sự việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on air",
+              "list_im": [
+                {
+                  "im_full_vn": "mừng rơn, sướng rơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tead on (as on ) eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "đi từng bước dè dặt thận trọng như đi trên trứng; hành động thận trọng dè dặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread on somebody's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "đè đầu cưỡi cổ ai, chà đạp ai, đàn áp ai, trấn áp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread the stage (the boards )",
+              "list_im": [
+                {
+                  "im_full_vn": "là diễn viên sân khấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread under foot",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) chà đạp, giày xéo; khinh rẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tread water",
+              "list_im": [
+                {
+                  "im_full_vn": "bơi đứng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

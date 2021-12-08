@@ -1,0 +1,29 @@
+{
+  "english": "unlearn",
+  "phat_am": "[ʌn'lə:n]",
+  "list_type": [
+    {
+      "type": "ngoại động từ unlearnt , unlearned",
+      "list_m": [
+        {
+          "m_full_vn": "gạt bỏ, quên (những điều đã học)",
+          "list_en_vn": [
+            {
+              "full_en": "to unlearn an idea",
+              "full_vn": "gạt bỏ một ý nghĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ, từ bỏ (thói xấu)",
+          "list_en_vn": [
+            {
+              "full_en": "to unlearn a habit",
+              "full_vn": "bỏ một thói quen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

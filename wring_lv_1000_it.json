@@ -1,0 +1,96 @@
+{
+  "english": "wring",
+  "phat_am": "[riη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vặn, sự vắt, sự bóp (quần áo..)"
+        },
+        {
+          "m_full_vn": "sự siết chặt (tay...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ wrung",
+      "list_m": [
+        {
+          "m_full_vn": "vặn, vắt, bóp (quần áo..)",
+          "list_en_vn": [
+            {
+              "full_en": "he wrung the clothes before putting them on the line to dry",
+              "full_vn": "anh ấy đã vắt quần áo trước khi mắc lên dây phơi cho khô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "moi, nặn ra (với sự cố gắng hoặc một cách khó khăn)",
+          "list_en_vn": [
+            {
+              "full_en": "to wring a confession from somebody",
+              "full_vn": "moi một lời thú nhận của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "siết chặt (tay ai khi chào nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "to wring someone's hand",
+              "full_vn": "siết chặt tay người nào"
+            },
+            {
+              "full_en": "to wring tears from someone",
+              "full_vn": "làm cho người nào phát khóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vặn (cổ một con chim) để giết đi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vò xé, làm đau buồn",
+          "list_en_vn": [
+            {
+              "full_en": "to wring someone's heart",
+              "full_vn": "làm cho ai đau lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) moi ra, bòn rút, nặn (tiền.. bằng áp lực...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wring one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "vò đầu bứt tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wring somebody's neck",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vặn cổ ai (dùng để biểu lộ sự tức giận, sự đe doạ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wring consent from somebody",
+              "full_vn": "moi ra cho được sự đồng ý của ai"
+            },
+            {
+              "full_en": "to wring money from (out of )",
+              "full_vn": "moi tiền, nặn của"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

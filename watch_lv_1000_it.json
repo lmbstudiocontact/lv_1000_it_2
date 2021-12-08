@@ -1,0 +1,394 @@
+{
+  "english": "watch",
+  "phat_am": "[wɔt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng hồ (quả quít, đeo tay, bỏ túi; nhất là xưa kia)",
+          "list_en_vn": [
+            {
+              "full_en": "a pocket-watch",
+              "full_vn": "đồng hồ bỏ túi; đồng hồ quả quít"
+            },
+            {
+              "full_en": "a wrist-watch",
+              "full_vn": "đồng hồ đeo tay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự canh gác, sự canh phòng",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a close (good ) watch over",
+              "full_vn": "canh phòng nghiêm ngặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người canh gác, người canh phòng; người gác, người trực"
+        },
+        {
+          "m_full_vn": "phiên trực, ca trực, thời gian trực (của đoàn thủy thủ)",
+          "list_en_vn": [
+            {
+              "full_en": "the middle watch",
+              "full_vn": "phiên trực nửa đêm (từ nửa đêm đến 4 giờ sáng)"
+            },
+            {
+              "full_en": "the dog watches",
+              "full_vn": "các phiên trực hai giờ (từ 4 đến 6 giờ chiều, từ 6 đến 8 giờ tối)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ trực (trên tàu thuỷ)"
+        },
+        {
+          "m_full_vn": "( the watch ) đội tuần phòng (nhóm người được thuê để đi tuần qua các phố)"
+        },
+        {
+          "m_full_vn": "( the watch ) người (nhóm người..) được thuê để theo dõi ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the police put a watch on the suspect's house",
+              "full_vn": "cảnh sát cử người theo dõi ngôi nhà của kẻ bị tình nghi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (từ cổ,nghĩa cổ) sự thức đêm; thời gian thức tỉnh trong đêm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the watch",
+              "list_im": [
+                {
+                  "im_full_vn": "canh phòng, canh gác"
+                },
+                {
+                  "im_full_vn": "thấp thỏm chờ; cảnh giác chờ đón"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the watch",
+              "list_im": [
+                {
+                  "im_full_vn": "canh phòng, canh gác"
+                },
+                {
+                  "im_full_vn": "thấp thỏm chờ; cảnh giác chờ đón"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep watch (for somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "canh phòng ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on watch",
+              "list_im": [
+                {
+                  "im_full_vn": "đang phiên trực"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the long watches of the night",
+              "full_vn": "những thời gian dài thao thức trong đêm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thức canh, gác đêm"
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) thức canh",
+          "list_en_vn": [
+            {
+              "full_en": "to watch all night at the beside of a sick child",
+              "full_vn": "thức canh suốt đêm bên giừơng một đứa trẻ ốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + over ) canh gác, bảo vệ, trông coi",
+          "list_en_vn": [
+            {
+              "full_en": "he felt that God was watching over him",
+              "full_vn": "nó cảm thấy Chúa đang che chở cho nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for ) chăm chú chờ đợi cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "you'll have to watch for the right moment",
+              "full_vn": "anh sẽ phải chờ đúng lúc mới được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "canh gác, bảo vệ, trông coi",
+          "list_en_vn": [
+            {
+              "full_en": "to watch the clothes",
+              "full_vn": "trông coi quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhìn, theo dõi, quan sát, rình",
+          "list_en_vn": [
+            {
+              "full_en": "to watch a mouse",
+              "full_vn": "rình một con chuột"
+            },
+            {
+              "full_en": "the suspect is watched by the police",
+              "full_vn": "kẻ tình nghi bị công an theo dõi"
+            },
+            {
+              "full_en": "to watch the others play",
+              "full_vn": "nhìn những người khác chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem ( tivi, thể thao..) để giải trí",
+          "list_en_vn": [
+            {
+              "full_en": "the match was watched by over twenty thousand people",
+              "full_vn": "hơn hai mươi ngàn người xem trận đấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) giữ gìn, thận trọng về ( ai/cái gì; nhất là để kiểm soát anh ta/cái đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to watch after",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn theo, theo dõi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch for",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ, rình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the opportunity to occur",
+                      "full_vn": "chờ cơ hội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) quan sát, để ý xem",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the symptoms of measles",
+                      "full_vn": "quan sát triệu chứng của bệnh sởi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch for",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ, rình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the opportunity to occur",
+                      "full_vn": "chờ cơ hội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) quan sát, để ý xem",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the symptoms of measles",
+                      "full_vn": "quan sát triệu chứng của bệnh sởi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch for",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ, rình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the opportunity to occur",
+                      "full_vn": "chờ cơ hội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) quan sát, để ý xem",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the symptoms of measles",
+                      "full_vn": "quan sát triệu chứng của bệnh sởi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch for",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ, rình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the opportunity to occur",
+                      "full_vn": "chờ cơ hội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) quan sát, để ý xem",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to watch for the symptoms of measles",
+                      "full_vn": "quan sát triệu chứng của bệnh sởi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch out",
+              "list_im": [
+                {
+                  "im_full_vn": "đề phòng, chú ý, coi chừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch over",
+              "list_im": [
+                {
+                  "im_full_vn": "trông nom, canh gác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone watch his step",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải vào khuôn phép, bắt ai phải phục tùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch one's step",
+              "list_im": [
+                {
+                  "im_full_vn": "đi thận trọng (cho khỏi ngã)"
+                },
+                {
+                  "im_full_vn": "giữ gìn, thận trọng (cho khỏi sai lầm, cho khỏi bị thua thiệt)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch one's step",
+              "list_im": [
+                {
+                  "im_full_vn": "đi thận trọng (cho khỏi ngã)"
+                },
+                {
+                  "im_full_vn": "giữ gìn, thận trọng (cho khỏi sai lầm, cho khỏi bị thua thiệt)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) coi chừng đấy!, hãy thận trọng! (nhất là lối mệnh lệnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch the clock",
+              "list_im": [
+                {
+                  "im_full_vn": "xem clock"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch this space",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đợi các diễn biến mới được thông báo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch the time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem giờ (để khỏi bị trễ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch the world go by",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn sự đời, quan sát những gì xảy ra xung quanh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to watch one's language",
+              "full_vn": "giữ gìn lời nói"
+            },
+            {
+              "full_en": "watch yourself !",
+              "full_vn": "hãy cẩn thận cái mồm!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

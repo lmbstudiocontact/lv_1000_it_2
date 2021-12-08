@@ -1,0 +1,23 @@
+{
+  "english": "tonnage",
+  "phat_am": "['tʌnidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kích cỡ chiếc tàu (được thể hiện bằng tấn Anh, Mỹ)"
+        },
+        {
+          "m_full_vn": "số lượng hàng hoá con tàu có thể chở (được thể hiện bằng tấn, mỗi tấn là 40 phút khối)"
+        },
+        {
+          "m_full_vn": "kích cỡ của đội tàu buôn của một nước (được thể hiện bằng tấn, mỗi tấn là 100 phút khối)"
+        },
+        {
+          "m_full_vn": "tiền cước, tiền chuyên chở (mỗi tấn hàng)"
+        }
+      ]
+    }
+  ]
+}

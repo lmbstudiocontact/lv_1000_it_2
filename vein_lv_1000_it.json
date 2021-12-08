@@ -1,0 +1,80 @@
+{
+  "english": "vein",
+  "phat_am": "[vein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) huyết quản, tĩnh mạch",
+          "list_en_vn": [
+            {
+              "full_en": "pulmonary veins",
+              "full_vn": "tĩnh mạch phổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) gân lá"
+        },
+        {
+          "m_full_vn": "(động vật học) gân cánh (sâu bọ)"
+        },
+        {
+          "m_full_vn": "vân (đá, gỗ)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) mạch",
+          "list_en_vn": [
+            {
+              "full_en": "a vein of coal",
+              "full_vn": "mạch than"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn cảm hứng",
+          "list_en_vn": [
+            {
+              "full_en": "the poetic vein",
+              "full_vn": "nguồn thơ"
+            },
+            {
+              "full_en": "to be in vein of doing something",
+              "full_vn": "đang thử muốn làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nét đặc trưng, tính chất rõ rệt, đặc điểm"
+        },
+        {
+          "m_full_vn": "dáng điệu, phong cách, tâm trạng",
+          "list_en_vn": [
+            {
+              "full_en": "in a sad vein",
+              "full_vn": "trong tâm trạng buồn rầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối, điệu",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in a humorous vein",
+              "full_vn": "nói theo lối hài hước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sơn giả vân, vẽ giả vân (lên vật gì)"
+        }
+      ]
+    }
+  ]
+}

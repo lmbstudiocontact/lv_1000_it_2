@@ -1,0 +1,41 @@
+{
+  "english": "you",
+  "phat_am": "[ju:]",
+  "list_type": [
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày",
+          "list_en_vn": [
+            {
+              "full_en": "you all know that ...",
+              "full_vn": "tất cả các anh đều biết rằng..."
+            },
+            {
+              "full_en": "he spoke of you",
+              "full_vn": "hắn ta nói về anh"
+            },
+            {
+              "full_en": "if I were you",
+              "full_vn": "nếu tôi là anh"
+            },
+            {
+              "full_en": "you there , what is your name ?",
+              "full_vn": "anh kia, tên anh là gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ai, người ta",
+          "list_en_vn": [
+            {
+              "full_en": "you never can tell",
+              "full_vn": "ai biết đâu được"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

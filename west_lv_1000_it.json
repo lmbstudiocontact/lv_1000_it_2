@@ -1,0 +1,76 @@
+{
+  "english": "west",
+  "phat_am": "[west]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the west ) (viết tắt) W hướng tây, phương tây; một trong bốn hướng chính của la bàn",
+          "list_en_vn": [
+            {
+              "full_en": "she lives to the west of Glasgow",
+              "full_vn": "cô ấy sống ở phía tây của Glasgow"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the West ) phương Tây (các nước không cộng sản ở châu Âu và châu Mỹ)"
+        },
+        {
+          "m_full_vn": "( the West ) Tây phương (châu Âu tương phản với các nước phương Đông)"
+        },
+        {
+          "m_full_vn": "( the West ) phía tây của nước Mỹ",
+          "list_one_mean": [
+            {
+              "id_full_en": "go west",
+              "list_im": [
+                {
+                  "im_full_vn": "bị phá hủy, bị dùng tới mức cùng kiệt, bị tàn phá..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo phía tây, hướng về phía tây",
+          "list_en_vn": [
+            {
+              "full_en": "the west side of London",
+              "full_vn": "mạn phía tây của Luân đôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi từ hướng tây (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "a west wind",
+              "full_vn": "gió tây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về hướng tây; ở phía tây",
+          "list_en_vn": [
+            {
+              "full_en": "to travel west",
+              "full_vn": "đi về hướng tây"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "triangle",
+  "phat_am": "['traiæηgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình tam giác",
+          "list_en_vn": [
+            {
+              "full_en": "equilateral triangle",
+              "full_vn": "tam giác đều"
+            },
+            {
+              "full_en": "isosceles triangle",
+              "full_vn": "tam giá cân"
+            },
+            {
+              "full_en": "right-angled triangle",
+              "full_vn": "tam giác vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình tam giác",
+          "list_en_vn": [
+            {
+              "full_en": "a scarf made of a triangle of blue sky",
+              "full_vn": "một chiếc khăn quàng cổ làm bằng một miếng lụa xanh hình tam giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ ba vật không thẳng hàng (tạo nên một tam giác tưởng tượng)"
+        },
+        {
+          "m_full_vn": "ê ke, thước nách"
+        },
+        {
+          "m_full_vn": "(âm nhạc) kẻng ba góc, cái phách hình tam giác (nhạc cụ gõ gồm một thanh bằng thép uốn cong hình tam giác và đánh bằng một thanh thép khác)"
+        },
+        {
+          "m_full_vn": "tay ba, bộ ba (tình thế liên quan đến ba người, ba quan niệm..)",
+          "list_en_vn": [
+            {
+              "full_en": "the eternal triangle",
+              "full_vn": "bộ ba cặp kè (tình trạng hai người yêu một)"
+            },
+            {
+              "full_en": "a love triangle",
+              "full_vn": "một cuộc tình tay ba"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

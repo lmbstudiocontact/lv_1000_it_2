@@ -1,0 +1,174 @@
+{
+  "english": "wing",
+  "phat_am": "[wiη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học); (thực vật học) cánh (chim, sâu bọ; quả, hạt)",
+          "list_en_vn": [
+            {
+              "full_en": "to lend (add ) wing to",
+              "full_vn": "chắp cánh cho, làm cho chạy mau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bay, sự cất cánh; (nghĩa bóng) sự bay bổng",
+          "list_en_vn": [
+            {
+              "full_en": "on the wing",
+              "full_vn": "đang bay"
+            },
+            {
+              "full_en": "to take wing",
+              "full_vn": "cất cánh bay, bay đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) cánh, chái (nhà)",
+          "list_en_vn": [
+            {
+              "full_en": "the east wing of a building",
+              "full_vn": "chái phía đông của toà nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cánh (máy bay, quạt)"
+        },
+        {
+          "m_full_vn": "(hàng hải) mạn (tàu)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (sân khấu) cánh gà"
+        },
+        {
+          "m_full_vn": "(quân sự) cánh",
+          "list_en_vn": [
+            {
+              "full_en": "right wing",
+              "full_vn": "cánh hữu"
+            },
+            {
+              "full_en": "left wing",
+              "full_vn": "cánh tả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phi đội (không quân Anh); ( số nhiều) phù hiệu phi công",
+          "list_en_vn": [
+            {
+              "full_en": "wing commander",
+              "full_vn": "(viết tắt) W/Cdr trung tá không quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) biên",
+          "list_en_vn": [
+            {
+              "full_en": "right wing",
+              "full_vn": "hữu biên"
+            },
+            {
+              "full_en": "left wing",
+              "full_vn": "tả biên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) cánh tay (bị thương)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự che chở, sự bảo trợ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clip someone's wings",
+              "list_im": [
+                {
+                  "im_full_vn": "hạn chế sự cử động (tham vọng, sự tiêu pha) của ai; chặt đôi cánh của ai (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come on the wings of the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "đến nhanh như gió"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "under the wing of someone",
+              "full_vn": "được người nào che chở"
+            },
+            {
+              "full_en": "to take someone under one's wing",
+              "full_vn": "bảo trợ ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp lông vào (mũi tên)"
+        },
+        {
+          "m_full_vn": "thêm cánh, chắp cánh; làm cho nhanh hơn",
+          "list_en_vn": [
+            {
+              "full_en": "fear winged his steps",
+              "full_vn": "sự sợ hãi làm cho nó chạy nhanh như bay"
+            },
+            {
+              "full_en": "to wing one's words",
+              "full_vn": "nói liến thoắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bay, bay qua",
+          "list_en_vn": [
+            {
+              "full_en": "to wing one's way",
+              "full_vn": "bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn ra",
+          "list_en_vn": [
+            {
+              "full_en": "to wing an arrow",
+              "full_vn": "bắn mũi tên ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn trúng cánh (con chim); (thông tục) bắn trúng cánh tay"
+        },
+        {
+          "m_full_vn": "(kiến trúc) làm thêm chái",
+          "list_en_vn": [
+            {
+              "full_en": "to wing a hospital",
+              "full_vn": "làm thêm chái cho một bệnh viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bố phòng ở cánh bên"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "towel",
+  "phat_am": "['tauəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khăn lau; khăn tắm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to throw in the towel",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) đầu hàng, chịu thua"
+                },
+                {
+                  "im_full_vn": "(thông tục) thú nhận mình thua, thú nhận mình thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw in the towel",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) đầu hàng, chịu thua"
+                },
+                {
+                  "im_full_vn": "(thông tục) thú nhận mình thua, thú nhận mình thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lead towel",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "oaken towel",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) gậy tày, dùi cui"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau, lau khô bằng khăn, chà xát bằng khăn"
+        },
+        {
+          "m_full_vn": "(từ lóng) đánh đòn, nện cho một trận"
+        }
+      ]
+    }
+  ]
+}

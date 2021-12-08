@@ -1,0 +1,28 @@
+{
+  "english": "unwind",
+  "phat_am": "[,ʌn'waind]",
+  "list_type": [
+    {
+      "type": "ngoại động từ unwound",
+      "list_m": [
+        {
+          "m_full_vn": "tháo ra, trải ra (cái gì đã cuộn, đã quấn)",
+          "list_en_vn": [
+            {
+              "full_en": "to unwind a ball of string",
+              "full_vn": "tháo một cuộn dây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) nghỉ ngơi, thư giãn sau một thời gian lao động căng thẳng"
+        }
+      ]
+    }
+  ]
+}

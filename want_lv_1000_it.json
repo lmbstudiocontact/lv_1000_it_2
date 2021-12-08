@@ -1,0 +1,285 @@
+{
+  "english": "want",
+  "phat_am": "[wɔnt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) số nhiều) sự mong muốn có cái gì, nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "he is a man of few wants",
+              "full_vn": "ông ta là một người ít nhu cầu"
+            },
+            {
+              "full_en": "this book meets a long-felt want",
+              "full_vn": "quyển sách này đáp ứng sự mong đợi từ lâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái cần thiết, vật được yêu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "all their wants were provided by their host",
+              "full_vn": "mọi thứ họ cần đều được chủ nhà cung cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thiếu thốn, sự không đầy đủ, sự không có, sự khuyết",
+          "list_en_vn": [
+            {
+              "full_en": "the refugees are suffering for want of food and medical supplies",
+              "full_vn": "những người tị nạn bị thiếu lương thực và thuốc men"
+            },
+            {
+              "full_en": "want of thought",
+              "full_vn": "sự thiếu suy nghĩ"
+            },
+            {
+              "full_en": "she decided to accept the offer for want of anything better",
+              "full_vn": "cô ta quyết định nhận lời đề nghị vì không còn gì tốt hơn"
+            },
+            {
+              "full_en": "she couldn't find anywhere to live , though not for want of trying",
+              "full_vn": "cô ta không tìm được chỗ nào để ở, dù không phải không có cố gắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh túng thiếu, cảnh nghèo nàn, tình trạng nghèo khó, tình trạng thiếu thốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "in want of something",
+              "list_im": [
+                {
+                  "im_full_vn": "cần có điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the house is in want of repair",
+                      "full_vn": "căn nhà cần sửa chữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in want of something",
+              "list_im": [
+                {
+                  "im_full_vn": "cần có điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the house is in want of repair",
+                      "full_vn": "căn nhà cần sửa chữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "he is rich that has few wants",
+              "list_im": [
+                {
+                  "im_full_vn": "Tri túc đệ nhất phú; Biết đủ là giàu nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live in want",
+              "full_vn": "sống trong cảnh nghèo khó"
+            },
+            {
+              "full_en": "a policy aimed at fighting want and deprivation",
+              "full_vn": "một chính sách nhằm đấu tranh chống sự nghèo đói và túng thiếu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiếu, không có đủ",
+          "list_en_vn": [
+            {
+              "full_en": "to want patience",
+              "full_vn": "thiếu kiên nhẫn"
+            },
+            {
+              "full_en": "he wants the courage to tell the truth",
+              "full_vn": "anh ta không đủ can đảm để nói sự thật"
+            },
+            {
+              "full_en": "after the disaster , there were many who wanted food and shelter",
+              "full_vn": "sau tai hoạ đó, nhiều người thiếu lương thực và nhà ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi, cần, cần có",
+          "list_en_vn": [
+            {
+              "full_en": "to want a rest",
+              "full_vn": "cần nghỉ ngơi"
+            },
+            {
+              "full_en": "hair wants cutting",
+              "full_vn": "tóc phải hớt rồi đấy"
+            },
+            {
+              "full_en": "we shall want more staff for the new office",
+              "full_vn": "chúng tôi cần có thêm nhân viên cho văn phòng mới"
+            },
+            {
+              "full_en": "let me know how many copies you want",
+              "full_vn": "hãy cho tôi biết anh cần bao nhiêu bản"
+            },
+            {
+              "full_en": "the plants want watering /want to be watered daily",
+              "full_vn": "cây cối cần phải tưới hàng ngày"
+            },
+            {
+              "full_en": "I'm sure you don't want reminding of the need for discretion",
+              "full_vn": "tôi chắc khỏi cần nhắc anh là cần phải thận trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nên, phải (làm điều gì)",
+          "list_en_vn": [
+            {
+              "full_en": "you want to be more careful",
+              "full_vn": "anh nên cẩn thận hơn"
+            },
+            {
+              "full_en": "they want to remember who they're speaking to !",
+              "full_vn": "họ phải nhớ là họ đang nói chuyện với ai chứ!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi ai có mặt, cần có ai",
+          "list_en_vn": [
+            {
+              "full_en": "you will not be wanted this afternoon",
+              "full_vn": "chiều nay anh không cần phải có mặt"
+            },
+            {
+              "full_en": "you're wanted immediately in the director's office",
+              "full_vn": "anh cần phải có mặt ngay ở phòng giám đốc"
+            },
+            {
+              "full_en": "he's wanted (for questioning ) by the police",
+              "full_vn": "công an cần gặp nó (để hỏi cung)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thèm ngủ với ai, cảm thấy ham muốn tình dục với (ai)"
+        },
+        {
+          "m_full_vn": "thiếu, kém",
+          "list_en_vn": [
+            {
+              "full_en": "It still wants half an hour till midnight",
+              "full_vn": "còn nửa giờ nữa mới đến nửa đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muốn, muốn có, ước ao",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have /want it /things both ways",
+              "list_im": [
+                {
+                  "im_full_vn": "xem both"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not want to know (about something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không muốn dây vào, né tránh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to want for something",
+              "list_im": [
+                {
+                  "im_full_vn": "đau khổ vì thiếu thốn cái gì (nhất là trong các câu hỏi, câu phủ định)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to want in /out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) muốn đi vào/đi ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to want out /out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) muốn rút ra, không muốn dính líu lâu hơn vào (một kế hoạch, một dự án..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "waste not , want not",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không phung phí thì không túng thiếu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he wants to go with us",
+              "full_vn": "hắn muốn đi với chúng ta"
+            },
+            {
+              "full_en": "what else do you want ?",
+              "full_vn": "anh còn muốn gì khác nữa?"
+            },
+            {
+              "full_en": "the staff want a pay rise",
+              "full_vn": "toàn thể nhân viên muốn được tăng lương"
+            },
+            {
+              "full_en": "she wants me to go with her",
+              "full_vn": "cô ấy muốn tôi đi với cô ấy"
+            },
+            {
+              "full_en": "I didn't want that to happen",
+              "full_vn": "tôi không muốn điều đó xảy ra"
+            },
+            {
+              "full_en": "I want it (to be ) done as quickly as possible",
+              "full_vn": "tôi muốn việc đó hoàn thành càng nhanh càng tốt"
+            },
+            {
+              "full_en": "I don't want you arriving late",
+              "full_vn": "tôi không muốn anh đến trễ"
+            },
+            {
+              "full_en": "the people want him as their leader",
+              "full_vn": "mọi người muốn ông ta lãnh đạo họ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

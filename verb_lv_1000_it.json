@@ -1,0 +1,24 @@
+{
+  "english": "verb",
+  "phat_am": "[və:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) động từ (từ hay nhóm từ chỉ một hành động, một sự kiện hay một trạng thái)",
+          "list_en_vn": [
+            {
+              "full_en": "transitive verb",
+              "full_vn": "ngoại động từ"
+            },
+            {
+              "full_en": "intransitive verb",
+              "full_vn": "nội động từ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

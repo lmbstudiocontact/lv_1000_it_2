@@ -1,0 +1,70 @@
+{
+  "english": "yard",
+  "phat_am": "[jɑ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Iat, thước Anh (bằng 0, 914 mét)"
+        },
+        {
+          "m_full_vn": "(hàng hải) trục căng buồm",
+          "list_en_vn": [
+            {
+              "full_en": "yard-arm",
+              "full_vn": "đầu của trục căng đỡ buồm"
+            },
+            {
+              "full_en": "to be yard and yard",
+              "full_vn": "kề sát nhau (hai chiếc thuyền)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sân có rào xung quanh",
+          "list_en_vn": [
+            {
+              "full_en": "back yard",
+              "full_vn": "sân sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi rào (để chăn nuôi)"
+        },
+        {
+          "m_full_vn": "xưởng; kho",
+          "list_one_mean": [
+            {
+              "id_full_en": "yard of ale",
+              "list_im": [
+                {
+                  "im_full_vn": "bình đựng bia (dài khoảng một Iat)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "shipbuilding yard",
+              "full_vn": "xưởng đóng tàu"
+            },
+            {
+              "full_en": "contractor's yard",
+              "full_vn": "xưởng chứa vật liệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa súc vật vào bãi rào"
+        }
+      ]
+    }
+  ]
+}

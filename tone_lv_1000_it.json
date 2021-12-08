@@ -1,0 +1,264 @@
+{
+  "english": "tone",
+  "phat_am": "[toun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "heart tones",
+              "full_vn": "tiếng đập của tim (khi bác sĩ nghe)"
+            },
+            {
+              "full_en": "the ringing tones of an orator's voice",
+              "full_vn": "tiếng âm vang của giọng nói người diễn thuyết"
+            },
+            {
+              "full_en": "the alarm bell's harsh tone",
+              "full_vn": "âm thanh chói tai của chuông báo động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giọng (lối diễn đạt trong khi nói)",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in an angry /impatient /entreating tone",
+              "full_vn": "nói giọng giận dữ/nôn nóng/khẩn khoản"
+            },
+            {
+              "full_en": "a tone of command /reproach /regret",
+              "full_vn": "giọng ra lệnh, quở trách, hối hận"
+            },
+            {
+              "full_en": "don't speak to me in that tone (of voice )",
+              "full_vn": "đừng có nói với tôi bằng cái giọng đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âm thanh (do một nhạc cụ phát ra)",
+          "list_en_vn": [
+            {
+              "full_en": "the sweet tone of the violin",
+              "full_vn": "tiếng viôlông êm dịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần chung, đặc điểm chung của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "overall , the tone of the book is satirical",
+              "full_vn": "nhìn chung, giọng văn của cuốn sách là mỉa mai"
+            },
+            {
+              "full_en": "to set the tone for /of the meeting with a conciliatory speech",
+              "full_vn": "tạo không khí chung cho cuộc họp bằng bài phát biểu hoà giải"
+            },
+            {
+              "full_en": "to lower /raise the tone of a conversation , an occasion , an organization",
+              "full_vn": "hạ thấp/nâng cao khí thế của cuộc nói chuyện, ý nghĩa của một dịp, uy tín của một tổ chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) quãng trưởng"
+        },
+        {
+          "m_full_vn": "màu nhẹ, sắc thái (của màu sắc); mức độ (của ánh sáng)",
+          "list_en_vn": [
+            {
+              "full_en": "a carpet in tones of brown and orange",
+              "full_vn": "chiếc thảm có tông màu nâu và da cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động chung của màu sắc (sáng và tối)",
+          "list_en_vn": [
+            {
+              "full_en": "a picture in warm tones",
+              "full_vn": "bức tranh có sắc ấm cúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rắn chắc hoàn hảo của cơ thể",
+          "list_en_vn": [
+            {
+              "full_en": "to recover tone",
+              "full_vn": "hồi phục sức khoẻ"
+            },
+            {
+              "full_en": "to lose tone",
+              "full_vn": "suy nhược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vẻ, phong thái",
+          "list_en_vn": [
+            {
+              "full_en": "a tone of elegance",
+              "full_vn": "vẻ tao nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tín hiệu nghe thấy trên đường dây điện thoại",
+          "list_en_vn": [
+            {
+              "full_en": "that tone means that the number is engaged",
+              "full_vn": "tín hiệu đó có nghĩa là số điện thoại đó đang bận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lên, xuống giọng; thanh điệu",
+          "list_en_vn": [
+            {
+              "full_en": "In ' Are you ill ? ' there is usually a rising tone on 'ill ' , while in ' He's ill ' there is usually a falling tone on 'ill '",
+              "full_vn": "Trong câu 'Are you ill? ' thường có sự lên giọng ở 'ill', còn ở câu 'He's ill' thường có sự xuống giọng ở 'ill'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho có giọng riêng"
+        },
+        {
+          "m_full_vn": "làm cho có sắc điệu"
+        },
+        {
+          "m_full_vn": "(âm nhạc) so dây (đàn)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoà hợp, ăn nhịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tone down",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt gay gắt; làm cho dịu, làm cho đỡ gay gắt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the apology toned down his anger",
+                      "full_vn": "lời xin lỗi làm cho cơn giận của anh ta dịu đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu sắc) dịu đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tone down",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt gay gắt; làm cho dịu, làm cho đỡ gay gắt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the apology toned down his anger",
+                      "full_vn": "lời xin lỗi làm cho cơn giận của anh ta dịu đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu sắc) dịu đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tone down",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt gay gắt; làm cho dịu, làm cho đỡ gay gắt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the apology toned down his anger",
+                      "full_vn": "lời xin lỗi làm cho cơn giận của anh ta dịu đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu sắc) dịu đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tone up",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ lên, mạnh lên; làm cho mạnh lên, làm cho khoẻ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "exercise tones up the muscles",
+                      "full_vn": "sự tập luyện làm cho bắp thịt khoẻ ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu) tươi lên; làm cho (tính chất) đậm nét hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tone up",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ lên, mạnh lên; làm cho mạnh lên, làm cho khoẻ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "exercise tones up the muscles",
+                      "full_vn": "sự tập luyện làm cho bắp thịt khoẻ ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu) tươi lên; làm cho (tính chất) đậm nét hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tone up",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ lên, mạnh lên; làm cho mạnh lên, làm cho khoẻ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "exercise tones up the muscles",
+                      "full_vn": "sự tập luyện làm cho bắp thịt khoẻ ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "làm cho (màu) tươi lên; làm cho (tính chất) đậm nét hơn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the curtains tone with the carpet",
+              "full_vn": "những bức màn hoà hợp với tấm thảm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

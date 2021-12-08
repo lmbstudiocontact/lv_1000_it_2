@@ -1,0 +1,182 @@
+{
+  "english": "while",
+  "phat_am": "[wail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(khoảng) thời gian",
+          "list_one_mean": [
+            {
+              "id_full_en": "once in a while",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng, đôi khi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth somebody's while",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi hoặc thú vị đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It would be (well ) worth your while /You would find it (well ) worth your while to come to the meeting",
+                      "full_vn": "anh cứ đến dự cuộc họp rồi mới thấy thú vị"
+                    },
+                    {
+                      "full_en": "they promised to make it worth her while if she would take part",
+                      "full_vn": "họ hứa là nếu bà ta tham gia thì sẽ cho bà ta có lợi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth somebody's while",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi hoặc thú vị đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It would be (well ) worth your while /You would find it (well ) worth your while to come to the meeting",
+                      "full_vn": "anh cứ đến dự cuộc họp rồi mới thấy thú vị"
+                    },
+                    {
+                      "full_en": "they promised to make it worth her while if she would take part",
+                      "full_vn": "họ hứa là nếu bà ta tham gia thì sẽ cho bà ta có lợi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth somebody's while",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi hoặc thú vị đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It would be (well ) worth your while /You would find it (well ) worth your while to come to the meeting",
+                      "full_vn": "anh cứ đến dự cuộc họp rồi mới thấy thú vị"
+                    },
+                    {
+                      "full_en": "they promised to make it worth her while if she would take part",
+                      "full_vn": "họ hứa là nếu bà ta tham gia thì sẽ cho bà ta có lợi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she worked in a bank for a while before studying law",
+              "full_vn": "cô ta làm việc ở ngân hàng một thời gian, rồi mới học luật"
+            },
+            {
+              "full_en": "for a long while we had no news of him",
+              "full_vn": "một thời gian dài, chúng tôi chẳng có tin tức gì về hắn"
+            },
+            {
+              "full_en": "I'll be back in a little while",
+              "full_vn": "tí nữa tôi sẽ quay lại"
+            },
+            {
+              "full_en": "it took quite a while to find a hotel",
+              "full_vn": "cũng phải mất khá nhiều thời gian mới tìm ra khách sạn"
+            },
+            {
+              "full_en": "we waited for three hours , all the while hoping that someone would come and fetch us",
+              "full_vn": "chúng tôi đợi suốt ba giờ đồng hồ, trong thời gian đó hy vọng sẽ có người đến đón chúng tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to while something away)",
+          "list_en_vn": [
+            {
+              "full_en": "we whiled away the time at the airport reading magazines",
+              "full_vn": "ở sân bay, chúng tôi giết thì giờ bằng cách xem tạp chí"
+            },
+            {
+              "full_en": "it's easy to while a few hours away in a museum",
+              "full_vn": "bỏ ra mấy tiếng đồng hồ ở viện bảo tàng thật dễ chịu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ ( (cũng) whilst )",
+      "list_m": [
+        {
+          "m_full_vn": "trong thời gian mà; vào lúc mà; khi",
+          "list_en_vn": [
+            {
+              "full_en": "while at school , he worked very hard",
+              "full_vn": "khi còn ở trường, anh ta học tập rất chăm chỉ"
+            },
+            {
+              "full_en": "he fell asleep while (he was ) doing his homework",
+              "full_vn": "anh ấy ngủ gật trong khi (anh ấy) đang làm bài tập"
+            },
+            {
+              "full_en": "while I was in Madrid, there was a carnival",
+              "full_vn": "trong thời gian tôi ở Madrid, đã có một cuộc hội"
+            },
+            {
+              "full_en": "while (locked up ) in prison , she wrote her first novel",
+              "full_vn": "khi (bị giam) ở trong tù, cô ấy đã viết quyển tiểu thuyết đầu tay"
+            },
+            {
+              "full_en": "while Mary was writing a letter , the children were playing outside",
+              "full_vn": "khi Mary đang viết thư thì bọn trẻ đang chơi ngoài trời"
+            },
+            {
+              "full_en": "he listens to the radio while driving to work",
+              "full_vn": "anh ấy vừa nghe rađiô vừa lái xe đi làm"
+            },
+            {
+              "full_en": "I lived in a hostel while I was a student",
+              "full_vn": "tôi đã sống ở ký túc xá khi đang là sinh viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong khi đó (chỉ sự tương phản)",
+          "list_en_vn": [
+            {
+              "full_en": "the hat is red , while the shoes are black",
+              "full_vn": "mũ thì đỏ mà giày thì lại đen"
+            },
+            {
+              "full_en": "I drink black coffee while he prefers it with cream",
+              "full_vn": "tôi uống cà phê đen, trong khi đó thì anh ấy lại thích cà phê pha kem"
+            },
+            {
+              "full_en": "English is understood all over the world while Turkish is spoken by only a few people outside Turkey itself",
+              "full_vn": "tiếng Anh được khắp thế giới hiểu, trong khi đó tiếng Thổ Nhĩ Kỳ chỉ được một số ít người ở ngoài xứ Thổ Nhĩ Kỳ biết nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc dù",
+          "list_en_vn": [
+            {
+              "full_en": "while I admit that there are problems , I don't agree that they cannot be solved",
+              "full_vn": "dù thừa nhận rằng có những khó khăn, nhưng tôi không đồng ý là những khó khăn đó không thể giải quyết được"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

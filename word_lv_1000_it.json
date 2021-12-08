@@ -1,0 +1,255 @@
+{
+  "english": "word",
+  "phat_am": "[wə:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ",
+          "list_en_vn": [
+            {
+              "full_en": "to translate word for word",
+              "full_vn": "dịch theo từng từ một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời nói, lời (nhận xét, tuyên bố..)",
+          "list_en_vn": [
+            {
+              "full_en": "big words",
+              "full_vn": "những lời huênh hoang khoác lác, những lời loè bịp"
+            },
+            {
+              "full_en": "a man of few words",
+              "full_vn": "một người ít nói"
+            },
+            {
+              "full_en": "in other words",
+              "full_vn": "nói cách khác"
+            },
+            {
+              "full_en": "in so many words",
+              "full_vn": "nói đúng như vậy, nói toạc ra"
+            },
+            {
+              "full_en": "by word of mouth",
+              "full_vn": "bằng lời nói; truyền khẩu"
+            },
+            {
+              "full_en": "spoken word",
+              "full_vn": "lời nói"
+            },
+            {
+              "full_en": "I want a word with you",
+              "full_vn": "tôi muốn nói với anh một điều"
+            },
+            {
+              "full_en": "high (hard , warm , hot , sharp ) words",
+              "full_vn": "lời nói nặng"
+            },
+            {
+              "full_en": "burning words",
+              "full_vn": "lời lẽ hăng hái kích động"
+            },
+            {
+              "full_en": "wild and whirling word",
+              "full_vn": "lời lẽ thiếu cân nhắc, lời nói tếu"
+            },
+            {
+              "full_en": "to have no word for",
+              "full_vn": "không biết nói thế nào về"
+            },
+            {
+              "full_en": "beyond words",
+              "full_vn": "không nói được, không thể tả xiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời báo tin, tin tức, lời nhắn",
+          "list_en_vn": [
+            {
+              "full_en": "to leave word that",
+              "full_vn": "báo tin rằng, báo rằng"
+            },
+            {
+              "full_en": "word came that",
+              "full_vn": "người ta báo tin rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời hứa, lời",
+          "list_en_vn": [
+            {
+              "full_en": "to be as good as one's word",
+              "full_vn": "làm nhiều hơn đã hứa, nói ít làm nhiều"
+            },
+            {
+              "full_en": "to give one's word",
+              "full_vn": "hứa"
+            },
+            {
+              "full_en": "to keep one's word",
+              "full_vn": "giữ lời hứa"
+            },
+            {
+              "full_en": "a man of his word",
+              "full_vn": "người giữ lời hứa"
+            },
+            {
+              "full_en": "upon my word",
+              "full_vn": "xin lấy danh dự mà thề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lệnh, khẩu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to give the word to do something",
+              "full_vn": "ra lệnh làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự cãi nhau, lời qua tiếng lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a word",
+              "list_im": [
+                {
+                  "im_full_vn": "lập tức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go give someone one's good word",
+              "list_im": [
+                {
+                  "im_full_vn": "giới thiệu ai (làm công tác gì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "words are but wind",
+              "list_im": [
+                {
+                  "im_full_vn": "lời nói không ăn thua gì (so với hành động)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last word in",
+              "list_im": [
+                {
+                  "im_full_vn": "kiểu mới nhất về (cái gì); thành tựu mới nhất về (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on (with ) the word",
+              "list_im": [
+                {
+                  "im_full_vn": "vừa nói (là làm ngay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say a good word for",
+              "list_im": [
+                {
+                  "im_full_vn": "bào chữa, nói hộ"
+                },
+                {
+                  "im_full_vn": "khen ngợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say a good word for",
+              "list_im": [
+                {
+                  "im_full_vn": "bào chữa, nói hộ"
+                },
+                {
+                  "im_full_vn": "khen ngợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suit the action to the word",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện ngay lời doạ dẫm; thực hiện ngay lời hứa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a word in (out of ) season",
+              "list_im": [
+                {
+                  "im_full_vn": "lời nói đúng (không đúng) lúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a word to the wise",
+              "list_im": [
+                {
+                  "im_full_vn": "đối với một người khôn một lời cũng đủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Word of God ; God's Word",
+              "list_im": [
+                {
+                  "im_full_vn": "(tôn giáo) sách Phúc âm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have words with",
+              "full_vn": "cãi nhau với"
+            },
+            {
+              "full_en": "they had words",
+              "full_vn": "họ đã có lời qua tiếng lại với nhau"
+            },
+            {
+              "full_en": "to proceed from words to blows",
+              "full_vn": "từ cãi nhau đến đánh nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phát biểu, nói lên, bày tỏ, diễn đạt bằng lời lẽ riêng",
+          "list_en_vn": [
+            {
+              "full_en": "to word an idea",
+              "full_vn": "phát biểu một ý kiến"
+            },
+            {
+              "full_en": "a carefully worded reminder",
+              "full_vn": "lời nhắc khéo"
+            },
+            {
+              "full_en": "be careful how you word your answer",
+              "full_vn": "hãy thận trọng khi mở miệng trả lời"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

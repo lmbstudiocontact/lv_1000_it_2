@@ -1,0 +1,300 @@
+{
+  "english": "with",
+  "phat_am": "[wið]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) w với, cùng, cùng với với sự hiện diện, cùng với sự hiện diện",
+          "list_en_vn": [
+            {
+              "full_en": "to argue with someone",
+              "full_vn": "cãi lý với ai"
+            },
+            {
+              "full_en": "a kettle with a lid",
+              "full_vn": "một cái ấm với một cái vung"
+            },
+            {
+              "full_en": "to be with someone on a point",
+              "full_vn": "đồng ý với người nào về một điểm"
+            },
+            {
+              "full_en": "to live with one's parents",
+              "full_vn": "sống với bố mẹ mình"
+            },
+            {
+              "full_en": "to go on holiday with a friend",
+              "full_vn": "đi nghỉ với một người bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong sự chăm sóc của, trong sự quản lý của, trong sự sở hữu của (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "the keys are with reception",
+              "full_vn": "các chìa khoá gửi ở phòng tiếp tân"
+            },
+            {
+              "full_en": "I leave the baby with my mother every day",
+              "full_vn": "hàng ngày, tôi để cháu bé cho mẹ tôi chăm sóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có, đang mang (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a girl with red hair",
+              "full_vn": "một cô gái tóc đỏ"
+            },
+            {
+              "full_en": "the man with the long beard",
+              "full_vn": "người có râu dài"
+            },
+            {
+              "full_en": "with young",
+              "full_vn": "có chửa (thú)"
+            },
+            {
+              "full_en": "with child",
+              "full_vn": "có mang (người)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở, ở nơi",
+          "list_en_vn": [
+            {
+              "full_en": "it's a habit with him",
+              "full_vn": "ở anh ta đấy là một thói quen"
+            },
+            {
+              "full_en": "he lives with us",
+              "full_vn": "nó ở nhà chúng tôi, nó ở với chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng (chỉ rõ công cụ và phương tiện được dùng)",
+          "list_en_vn": [
+            {
+              "full_en": "to welcome with smiles",
+              "full_vn": "đón tiếp bằng những nụ cười"
+            },
+            {
+              "full_en": "with all my might",
+              "full_vn": "bằng (với) tất cả sức lực của tôi"
+            },
+            {
+              "full_en": "killed with a bayonet",
+              "full_vn": "bị giết bằng lưỡi lê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồng ý với, ủng hộ",
+          "list_en_vn": [
+            {
+              "full_en": "I'm with you all the way !",
+              "full_vn": "tôi triệt để ủng hộ anh!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ cách, trường hợp hoặc hoàn cảnh cái gì được hoàn thành hoặc xảy ra)",
+          "list_en_vn": [
+            {
+              "full_en": "I'll do it with pleasure",
+              "full_vn": "tôi sẽ vui lòng làm việc ấy"
+            },
+            {
+              "full_en": "with your permission , sir , I'd like to speak",
+              "full_vn": "thưa ông, nếu ông cho phép, tôi xin nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối lập với, phản đối",
+          "list_en_vn": [
+            {
+              "full_en": "at war with a neighbouring country",
+              "full_vn": "có chiến tranh với một nước láng giềng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì, bởi vì",
+          "list_en_vn": [
+            {
+              "full_en": "sick with love",
+              "full_vn": "ốm (vì) tương tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc dầu",
+          "list_en_vn": [
+            {
+              "full_en": "with all his weaknesses I like him",
+              "full_vn": "mặc dầu tất cả những nhược điểm của anh ta, tôi vẫn thích anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cũng như",
+          "list_en_vn": [
+            {
+              "full_en": "to think with someone",
+              "full_vn": "cũng nghĩ như ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nay mà, lúc mà, trong khi",
+          "list_en_vn": [
+            {
+              "full_en": "what is to become him with both his parents gone",
+              "full_vn": "nay cha mẹ nó đã mất cả rồi, thì nó sẽ ra sao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùng chiều với, cùng hướng với",
+          "list_en_vn": [
+            {
+              "full_en": "sail with the wind",
+              "full_vn": "chạy thuyền xuôi gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do và cùng tốc độ với",
+          "list_en_vn": [
+            {
+              "full_en": "good wine will improve with age",
+              "full_vn": "rượu ngon để càng lâu càng ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về mặt, đối với, liên quan đến",
+          "list_en_vn": [
+            {
+              "full_en": "careful with the glasses",
+              "full_vn": "cẩn thận với đồ thủy tinh"
+            },
+            {
+              "full_en": "a problem with accommodation",
+              "full_vn": "một vấn đề về chỗ ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong trường hợp; đối với, về phần",
+          "list_en_vn": [
+            {
+              "full_en": "It's a very busy time with us at the moment",
+              "full_vn": "đối với chúng tôi, lúc này quả là lúc hết sức bận rộn"
+            },
+            {
+              "full_en": "the decision rests with you",
+              "full_vn": "quyết định là về phần anh"
+            },
+            {
+              "full_en": "with him , money is not important",
+              "full_vn": "đối với anh ta, tiền bạc không quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "và cũng, kể cả, bao gồm",
+          "list_en_vn": [
+            {
+              "full_en": "the meal with wine came to 12 pound each",
+              "full_vn": "bữa ăn kể cả rượu lên đến 12 pao mỗi suất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là người làm thuê cho, là khách hàng của (một tổ chức)",
+          "list_en_vn": [
+            {
+              "full_en": "we're with the same bank",
+              "full_vn": "chúng tôi là khách hàng của cùng một ngân hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ rõ sự tách rời khỏi cái gì/ai)",
+          "list_en_vn": [
+            {
+              "full_en": "I could never part with this ring",
+              "full_vn": "tôi không bao giờ có thể rời bỏ chiếc nhẫn này được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì rằng, xét đến, cân nhắc, suy xét (một sự việc này trong mối quan hệ với một sự việc khác)",
+          "list_en_vn": [
+            {
+              "full_en": "she won't be able to help us , with all her family commitments",
+              "full_vn": "cô ấy sẽ không thể nào giúp chúng ta được vì cô còn bao nhiêu là ràng buộc của gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dù, dù cho, mặc dù, bất chấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) có thể hiểu/nắm bắt được điều ai đang nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with it",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu biết về thời trang và tư tưởng thịnh hành; linh hợi, hoạt bát"
+                },
+                {
+                  "im_full_vn": "hợp thời trang (về quần áo và những người mặc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with it",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu biết về thời trang và tư tưởng thịnh hành; linh hợi, hoạt bát"
+                },
+                {
+                  "im_full_vn": "hợp thời trang (về quần áo và những người mặc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with that",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay sau đó (là)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "with all her faults he still liked her",
+              "full_vn": "bất chấp mọi lỗi lầm của cô ấy, anh ta vẫn thích cô ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

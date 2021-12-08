@@ -1,0 +1,46 @@
+{
+  "english": "until",
+  "phat_am": "[ən'til]",
+  "list_type": [
+    {
+      "type": "giới từ (cũng) till",
+      "list_m": [
+        {
+          "m_full_vn": "trước khi; cho đến khi",
+          "list_en_vn": [
+            {
+              "full_en": "the holidays last until September",
+              "full_vn": "ngày nghỉ hè kéo dài cho đến tận tháng chín"
+            },
+            {
+              "full_en": "wait until tomorrow",
+              "full_vn": "hãy đợi đến ngày mai"
+            },
+            {
+              "full_en": "don't open it until your birthday",
+              "full_vn": "đừng mở ra trước ngày sinh nhật của anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ (cũng) till",
+      "list_m": [
+        {
+          "m_full_vn": "trước khi; cho đến khi",
+          "list_en_vn": [
+            {
+              "full_en": "the baby did not stop crying until he was fed",
+              "full_vn": "đứa bé khóc hoài cho đến khi được bú mới thôi"
+            },
+            {
+              "full_en": "this decision will not become effective until it is approved by the Ministry of Foreign Trade",
+              "full_vn": "quyết định này sẽ không có hiệu lực cho đến khi được bộ ngoại thương phê chuẩn (quyết định này chỉ có hiệu lực sau khi được bộ ngoại thương phê chuẩn)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "van",
+  "phat_am": "[væn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the van ) (quân sự) tiền đội, quân tiên phong"
+        },
+        {
+          "m_full_vn": "những người đi tiên phong, những người lãnh đạo (một phong trào); địa vị hàng đầu",
+          "list_en_vn": [
+            {
+              "full_en": "men in the van of the movement",
+              "full_vn": "những người đi tiên phong trong phong trào"
+            },
+            {
+              "full_en": "in the van of nations fighting for independence",
+              "full_vn": "ở hàng đầu trong các nước đang đấu tranh giành độc lập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe tải (chuyên chở hành lý hoặc người)"
+        },
+        {
+          "m_full_vn": "như luggage van"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên chở bằng xe tải"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) máy quạt thóc"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ); (thơ ca) cánh chim"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đãi (quặng)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "urge",
+  "phat_am": "[ə:dʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thúc đẩy mạnh mẽ, sự ham muốn mạnh mẽ; sự thôi thúc",
+          "list_en_vn": [
+            {
+              "full_en": "sexual urges",
+              "full_vn": "những ham muốn mạnh mẽ về tình dục"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thúc, thúc giục, giục giã",
+          "list_en_vn": [
+            {
+              "full_en": "to urge the horse onward",
+              "full_vn": "thúc ngựa tiến lên"
+            },
+            {
+              "full_en": "to urge someone to do something",
+              "full_vn": "thúc giục ai làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nài nỉ, cố thuyết phục",
+          "list_en_vn": [
+            {
+              "full_en": "the shopkeeper urged me to buy a hat",
+              "full_vn": "chủ cửa hàng nài tôi mua một cái mũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nêu ra, đề xuất, bảy tỏ chủ trương"
+        },
+        {
+          "m_full_vn": "dẫn chứng, viện chứng; nhấn mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to urge the need for economy",
+              "full_vn": "nêu lên vấn đề cần thiết phải tiết kiệm; nhấn mạnh sự cần thiết phải tiết kiệm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "vary",
+  "phat_am": "['veəri]",
+  "list_type": [
+    {
+      "type": "ngoại động từ varried",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho khác nhau, thay đổi, biến đổi",
+          "list_en_vn": [
+            {
+              "full_en": "to vary the diet",
+              "full_vn": "thay đổi chế độ ăn uống"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay đổi, biến đổi, đổi khác",
+          "list_en_vn": [
+            {
+              "full_en": "to vary from day to day",
+              "full_vn": "thay đổi mỗi ngày một khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khác nhau với, khác với",
+          "list_en_vn": [
+            {
+              "full_en": "this edition varies a little from the first one",
+              "full_vn": "bản in này khác với bản in lần thứ nhất một chút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất đồng",
+          "list_en_vn": [
+            {
+              "full_en": "opinions vary on this point",
+              "full_vn": "ý kiến bất đồng ở điểm này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học); (vật lý) biến thiên"
+        },
+        {
+          "m_full_vn": "(âm nhạc) biến tấu"
+        }
+      ]
+    }
+  ]
+}

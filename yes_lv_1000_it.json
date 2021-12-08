@@ -1,0 +1,35 @@
+{
+  "english": "yes",
+  "phat_am": "[jes]",
+  "list_type": [
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "vâng, phải, dạ, được, ừ, có, có chứ",
+          "list_en_vn": [
+            {
+              "full_en": "to say yes or no",
+              "full_vn": "nói có hoặc không; nói được hay không"
+            },
+            {
+              "full_en": "You didn't see him ? - yes , I did",
+              "full_vn": "anh không thấy nó à? - có chứ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều yeses",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng vâng dạ, tiếng ừ phải"
+        },
+        {
+          "m_full_vn": "phiếu đồng ý; phiếu thuận"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "wild",
+  "phat_am": "[waild]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dại, hoang (ở) rừng",
+          "list_en_vn": [
+            {
+              "full_en": "wild grass",
+              "full_vn": "cỏ dại"
+            },
+            {
+              "full_en": "to grow wild",
+              "full_vn": "mọc hoang (cây)"
+            },
+            {
+              "full_en": "wild beasts",
+              "full_vn": "dã thú, thú rừng"
+            },
+            {
+              "full_en": "wild bird",
+              "full_vn": "chim rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa thuần; chưa dạn người (thú, chim)"
+        },
+        {
+          "m_full_vn": "man rợ, man di, chưa văn minh",
+          "list_en_vn": [
+            {
+              "full_en": "wild tribes",
+              "full_vn": "bộ lạc man rợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoang vu, không người ở",
+          "list_en_vn": [
+            {
+              "full_en": "wild country",
+              "full_vn": "xứ hoang vu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dữ dội, bão táp",
+          "list_en_vn": [
+            {
+              "full_en": "wild wind",
+              "full_vn": "gió dữ dội"
+            },
+            {
+              "full_en": "wild day",
+              "full_vn": "ngày bão táp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rối, lộn xộn, lung tung",
+          "list_en_vn": [
+            {
+              "full_en": "wild hair",
+              "full_vn": "tóc rối, tóc bù xù"
+            },
+            {
+              "full_en": "wild confusion",
+              "full_vn": "sự rối loạn lung tung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điên, điên cuồng, nhiệt liệt",
+          "list_en_vn": [
+            {
+              "full_en": "wild with anger",
+              "full_vn": "tức điên"
+            },
+            {
+              "full_en": "to drive someone wild",
+              "full_vn": "chọc tức ai"
+            },
+            {
+              "full_en": "wild laughter",
+              "full_vn": "cái cười như điên"
+            },
+            {
+              "full_en": "to be wild to do something",
+              "full_vn": "điên lên muốn làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngông cuồng, rồ dại, liều mạng, thiếu đắn đo suy nghĩ, bừa bãi",
+          "list_en_vn": [
+            {
+              "full_en": "wild opinions",
+              "full_vn": "những ý kiến ngông cuồng rồ dại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự do, bừa bãi, phóng túng, lêu lổng",
+          "list_en_vn": [
+            {
+              "full_en": "a wild life",
+              "full_vn": "cuộc đời phóng túng; lối sống phóng đãng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vu vơ, bừa bãi, lung tung",
+          "list_en_vn": [
+            {
+              "full_en": "to shoot wild",
+              "full_vn": "bắn lung tung"
+            },
+            {
+              "full_en": "to talk wild",
+              "full_vn": "nói lung tung bừa bãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vùng hoang vu"
+        }
+      ]
+    }
+  ]
+}

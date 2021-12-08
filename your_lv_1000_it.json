@@ -1,0 +1,24 @@
+{
+  "english": "your",
+  "phat_am": "[jɔ:]",
+  "list_type": [
+    {
+      "type": "tính từ sở hữu",
+      "list_m": [
+        {
+          "m_full_vn": "của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày",
+          "list_en_vn": [
+            {
+              "full_en": "show me your hands",
+              "full_vn": "đưa tay anh cho tôi xem"
+            },
+            {
+              "full_en": "is this your own book ?",
+              "full_vn": "đây có phải là quyển sách của anh không?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

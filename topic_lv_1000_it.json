@@ -1,0 +1,24 @@
+{
+  "english": "topic",
+  "phat_am": "['tɔpik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề tài, chủ đề (của một cuộc hội thảo, nói chuyện..)",
+          "list_en_vn": [
+            {
+              "full_en": "the topic of the day",
+              "full_vn": "vấn đề thời sự"
+            },
+            {
+              "full_en": "a topic of conversation",
+              "full_vn": "chủ đề của cuộc trò chuyện"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

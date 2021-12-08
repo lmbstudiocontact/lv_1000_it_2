@@ -1,0 +1,36 @@
+{
+  "english": "visa",
+  "phat_am": "['vi:zə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thị thực (con dấu hoặc dấu do viên chức của nước ngoài đóng lên hộ chiếu để cho biết người cầm hộ chiếu có thể vào, đi qua hoặc rời nước của họ)",
+          "list_en_vn": [
+            {
+              "full_en": "entry visa",
+              "full_vn": "thị thực nhập cảnh"
+            },
+            {
+              "full_en": "exit visa",
+              "full_vn": "thị thực xuất cảnh"
+            },
+            {
+              "full_en": "transit visa",
+              "full_vn": "thị thực quá cảnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, động tính từ quá khứ là visaed",
+      "list_m": [
+        {
+          "m_full_vn": "đóng dấu thị thực (lên hộ chiếu)"
+        }
+      ]
+    }
+  ]
+}

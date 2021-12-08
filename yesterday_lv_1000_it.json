@@ -1,0 +1,28 @@
+{
+  "english": "yesterday",
+  "phat_am": "['jestədi]",
+  "list_type": [
+    {
+      "type": "phó từ & danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hôm qua",
+          "list_en_vn": [
+            {
+              "full_en": "yesterday morning",
+              "full_vn": "sáng hôm qua"
+            },
+            {
+              "full_en": "the day before yesterday",
+              "full_vn": "hôm kia"
+            },
+            {
+              "full_en": "yesterday week",
+              "full_vn": "tám hôm trước"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

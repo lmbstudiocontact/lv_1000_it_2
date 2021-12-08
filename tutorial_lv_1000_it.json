@@ -1,0 +1,38 @@
+{
+  "english": "tutorial",
+  "phat_am": "[tju:'tɔ:riəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thầy dạy kèm; (thuộc) gia sư",
+          "list_en_vn": [
+            {
+              "full_en": "tutorial responsibilities",
+              "full_vn": "trách nhiệm của thầy phụ đạo"
+            },
+            {
+              "full_en": "tutorial classes",
+              "full_vn": "lớp phụ đạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời kỳ hướng dẫn (nhất là do trợ giáo đảm nhận cho một sinh viên)",
+          "list_en_vn": [
+            {
+              "full_en": "to give a tutorial to somebody",
+              "full_vn": "hướng dẫn cho ai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

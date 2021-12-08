@@ -1,0 +1,122 @@
+{
+  "english": "very",
+  "phat_am": "['veri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực sự, riêng (dùng để nhấn mạnh một danh từ)",
+          "list_en_vn": [
+            {
+              "full_en": "he knows our very thoughts",
+              "full_vn": "anh ta biết những ý nghĩ thật sự của chúng tôi"
+            },
+            {
+              "full_en": "the very idea of going abroad delighted him",
+              "full_vn": "chỉ riêng ý nghĩ đi ra nước ngoài đã làm anh ta vui thích"
+            },
+            {
+              "full_en": "the very idea /thought",
+              "full_vn": "ý nghĩ/ý tưởng thuần túy"
+            },
+            {
+              "full_en": "sardine tins can be the very devil to open",
+              "full_vn": "các hộp cá trích có thể là rất khó mở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính, thực sự, đúng là như vậy",
+          "list_en_vn": [
+            {
+              "full_en": "he is the very man we want",
+              "full_vn": "anh ta chính là người chúng ta cần"
+            },
+            {
+              "full_en": "at that very moment , the phone rang",
+              "full_vn": "chuông điện thoại reo lên đúng vào lúc đó"
+            },
+            {
+              "full_en": "these pills are the very thing for your cold",
+              "full_vn": "những viên thuốc chính là thứ để trị chứng cảm lạnh của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tột cùng, tận, chính",
+          "list_en_vn": [
+            {
+              "full_en": "in this very room",
+              "full_vn": "ở chính phòng này"
+            },
+            {
+              "full_en": "in the very middle",
+              "full_vn": "vào chính giữa"
+            },
+            {
+              "full_en": "on that very day",
+              "full_vn": "ngay ngày ấy"
+            },
+            {
+              "full_en": "at the very end /beginning",
+              "full_vn": "vào lúc tận cùng/ngay lúc bắt đầu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất, lắm, hết sức, ở một mức độ cao",
+          "list_en_vn": [
+            {
+              "full_en": "very beautiful",
+              "full_vn": "rất đẹp"
+            },
+            {
+              "full_en": "six o'clock at the very latest",
+              "full_vn": "chậm lắm là sáu giờ, chậm nhất là sáu giờ"
+            },
+            {
+              "full_en": "the question has been very much disputed",
+              "full_vn": "vấn đề đã bàn cãi nhiều lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơn hết, chính, trong ý nghĩa đầy đủ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "I bought it with my very own money",
+              "full_vn": "tôi mua cái đó bằng chính tiền riêng của tôi"
+            },
+            {
+              "full_en": "the very best quality",
+              "full_vn": "phẩm chất tốt hơn hết"
+            },
+            {
+              "full_en": "the very first to arrive",
+              "full_vn": "người đến trước nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, ngay, một cách chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "on the very same day",
+              "full_vn": "ngay cùng ngày; cùng đúng ngày đó"
+            },
+            {
+              "full_en": "sitting in the very same seat",
+              "full_vn": "ngồi đúng ngay cái ghế đó"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

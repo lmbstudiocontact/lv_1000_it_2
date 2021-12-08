@@ -1,0 +1,37 @@
+{
+  "english": "written",
+  "phat_am": "['ritn]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của write"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết ra, được thảo ra; trên giấy tờ, thành văn bản",
+          "list_one_mean": [
+            {
+              "id_full_en": "the written word",
+              "list_im": [
+                {
+                  "im_full_vn": "văn bản"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a written examination",
+              "full_vn": "một kỳ thi viết"
+            },
+            {
+              "full_en": "a written evidence",
+              "full_vn": "bằng chứng được viết ra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "worried",
+  "phat_am": "['wʌrid]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của worry"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + about somebody/something ; that.. ) bồn chồn, lo nghĩ, cảm thấy lo lắng, tỏ ra lo lắng",
+          "list_en_vn": [
+            {
+              "full_en": "be worried about one's weight",
+              "full_vn": "lo lắng về trọng lượng"
+            },
+            {
+              "full_en": "be worried about one's husband",
+              "full_vn": "lo lắng về chồng mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

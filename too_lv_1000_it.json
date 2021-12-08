@@ -1,0 +1,206 @@
+{
+  "english": "too",
+  "phat_am": "[tu:]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đặt ở cuối; trong ngôn ngữ nói, có nhấn vào too và từ mà nó bổ nghĩa) thêm vào; cũng",
+          "list_en_vn": [
+            {
+              "full_en": "I've been to Paris too",
+              "full_vn": "cả tôi cũng đã đến Pari (tức là thêm vào cùng với những người khác)"
+            },
+            {
+              "full_en": "I've been to Paris, too",
+              "full_vn": "Tôi cũng có đến Pari (tức là thêm vào cùng với những địa điểm khác)"
+            },
+            {
+              "full_en": "he plays the guitar and sings too",
+              "full_vn": "anh ấy chơi đàn ghi ta và cả hát nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng trước tính từ và phó từ) chỉ mức cao hơn mức được cho phép, mong muốn hoặc có thể",
+          "list_en_vn": [
+            {
+              "full_en": "to drive too fast",
+              "full_vn": "lái xe quá nhanh"
+            },
+            {
+              "full_en": "It's too cold to go in the sea yet",
+              "full_vn": "trời quá lạnh chưa thể tắm biển được"
+            },
+            {
+              "full_en": "these shoes are much too small for me",
+              "full_vn": "giày này quá nhỏ đối với cỡ chân tôi"
+            },
+            {
+              "full_en": "This is too difficult a text for them /This text is too difficult for them",
+              "full_vn": "Bài khoá này quá khó đối với họ"
+            },
+            {
+              "full_en": "We can't ski because there's too little snow",
+              "full_vn": "Chúng tôi không trượt tuyết được vì có quá ít tuyết"
+            },
+            {
+              "full_en": "It's too long a journey to make in one day",
+              "full_vn": "Chuyến đi đó dài đến nỗi không thể thực hiện trong vòng một ngày"
+            },
+            {
+              "full_en": "Her work has been too much ignored for too long",
+              "full_vn": "Công trình của cô ấy đã bị lãng quên quá lâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chỉ sự ngạc nhiên và nhất là không bằng lòng)",
+          "list_en_vn": [
+            {
+              "full_en": "I had flu last week . And I was on holiday too !",
+              "full_vn": "tôi bị cúm cả tuần trước mà lại vào đúng kỳ nghỉ của tôi nữa chứ!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be too much for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi hỏi ai phải cao hơn người khác (về kỹ năng, sức mạnh..)"
+                },
+                {
+                  "im_full_vn": "quá mức có thể tha thứ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Cambridge team were too much for the Oxford team in the quiz",
+                      "full_vn": "Đội Cambridge được yêu cầu phải giỏi hơn đội Oxford trong cuộc thi đố"
+                    },
+                    {
+                      "full_en": "a cycling holiday would be too much for an unfit person like me",
+                      "full_vn": "một ngày nghỉ đạp xe đạp đi chơi sẽ là quá sức đối với một kẻ ốm yếu như tôi"
+                    },
+                    {
+                      "full_en": "all that giggling and whispering was too much for me - I'd to leave the room",
+                      "full_vn": "Tất cả những tiếng khúc khích và thì thầm đó là quá mức chịu đựng của tôi - tôi đã phải rời bỏ căn phòng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too much for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi hỏi ai phải cao hơn người khác (về kỹ năng, sức mạnh..)"
+                },
+                {
+                  "im_full_vn": "quá mức có thể tha thứ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Cambridge team were too much for the Oxford team in the quiz",
+                      "full_vn": "Đội Cambridge được yêu cầu phải giỏi hơn đội Oxford trong cuộc thi đố"
+                    },
+                    {
+                      "full_en": "a cycling holiday would be too much for an unfit person like me",
+                      "full_vn": "một ngày nghỉ đạp xe đạp đi chơi sẽ là quá sức đối với một kẻ ốm yếu như tôi"
+                    },
+                    {
+                      "full_en": "all that giggling and whispering was too much for me - I'd to leave the room",
+                      "full_vn": "Tất cả những tiếng khúc khích và thì thầm đó là quá mức chịu đựng của tôi - tôi đã phải rời bỏ căn phòng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too much for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi hỏi ai phải cao hơn người khác (về kỹ năng, sức mạnh..)"
+                },
+                {
+                  "im_full_vn": "quá mức có thể tha thứ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Cambridge team were too much for the Oxford team in the quiz",
+                      "full_vn": "Đội Cambridge được yêu cầu phải giỏi hơn đội Oxford trong cuộc thi đố"
+                    },
+                    {
+                      "full_en": "a cycling holiday would be too much for an unfit person like me",
+                      "full_vn": "một ngày nghỉ đạp xe đạp đi chơi sẽ là quá sức đối với một kẻ ốm yếu như tôi"
+                    },
+                    {
+                      "full_en": "all that giggling and whispering was too much for me - I'd to leave the room",
+                      "full_vn": "Tất cả những tiếng khúc khích và thì thầm đó là quá mức chịu đựng của tôi - tôi đã phải rời bỏ căn phòng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too much for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi hỏi ai phải cao hơn người khác (về kỹ năng, sức mạnh..)"
+                },
+                {
+                  "im_full_vn": "quá mức có thể tha thứ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Cambridge team were too much for the Oxford team in the quiz",
+                      "full_vn": "Đội Cambridge được yêu cầu phải giỏi hơn đội Oxford trong cuộc thi đố"
+                    },
+                    {
+                      "full_en": "a cycling holiday would be too much for an unfit person like me",
+                      "full_vn": "một ngày nghỉ đạp xe đạp đi chơi sẽ là quá sức đối với một kẻ ốm yếu như tôi"
+                    },
+                    {
+                      "full_en": "all that giggling and whispering was too much for me - I'd to leave the room",
+                      "full_vn": "Tất cả những tiếng khúc khích và thì thầm đó là quá mức chịu đựng của tôi - tôi đã phải rời bỏ căn phòng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be too much for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi hỏi ai phải cao hơn người khác (về kỹ năng, sức mạnh..)"
+                },
+                {
+                  "im_full_vn": "quá mức có thể tha thứ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Cambridge team were too much for the Oxford team in the quiz",
+                      "full_vn": "Đội Cambridge được yêu cầu phải giỏi hơn đội Oxford trong cuộc thi đố"
+                    },
+                    {
+                      "full_en": "a cycling holiday would be too much for an unfit person like me",
+                      "full_vn": "một ngày nghỉ đạp xe đạp đi chơi sẽ là quá sức đối với một kẻ ốm yếu như tôi"
+                    },
+                    {
+                      "full_en": "all that giggling and whispering was too much for me - I'd to leave the room",
+                      "full_vn": "Tất cả những tiếng khúc khích và thì thầm đó là quá mức chịu đựng của tôi - tôi đã phải rời bỏ căn phòng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'm not too sure if this is right",
+              "full_vn": "Tôi không chắc lắm điều này có đúng hay không"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

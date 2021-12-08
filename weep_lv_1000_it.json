@@ -1,0 +1,90 @@
+{
+  "english": "weep",
+  "phat_am": "[wi:p]",
+  "list_type": [
+    {
+      "type": "động từ; thời quá khứ và động tính từ quá khứ là wept",
+      "list_m": [
+        {
+          "m_full_vn": "nhỏ nước mắt; khóc",
+          "list_en_vn": [
+            {
+              "full_en": "to weep bitterly",
+              "full_vn": "khóc thảm thiết"
+            },
+            {
+              "full_en": "to weep for joy; to weep tears of joy",
+              "full_vn": "khóc vì vui sướng, sướng phát khóc"
+            },
+            {
+              "full_en": "the sight makes me want to weep",
+              "full_vn": "cảnh tượng ấy làm tôi muốn rơi nước mắt"
+            },
+            {
+              "full_en": "a mother weeping over the death of her child",
+              "full_vn": "người mẹ khóc cái chết của con mình"
+            },
+            {
+              "full_en": "she wept to see him in such a state",
+              "full_vn": "cô ta ứa nước mắt khi thấy anh ta trong tình cảnh như vậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cành rủ xuống (cây)"
+        },
+        {
+          "m_full_vn": "(vết thương) chảy hoặc rỉ nước, nhất là mủ",
+          "list_en_vn": [
+            {
+              "full_en": "the sore is weeping",
+              "full_vn": "vết đau chảy nước"
+            },
+            {
+              "full_en": "the rock is weeping",
+              "full_vn": "đá đổ mồ hôi"
+            },
+            {
+              "full_en": "the cut is no longer weeping and is starting to heal",
+              "full_vn": "vết đứt không còn chảy nước nữa và bắt đầu lành rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khóc về, khóc than về, khóc cho",
+          "list_en_vn": [
+            {
+              "full_en": "to weep one's sad fate",
+              "full_vn": "khóc cho số phận hẩm hiu của mình"
+            },
+            {
+              "full_en": "to weep out a farewell",
+              "full_vn": "nghẹn ngào thốt ra lời tạm biệt"
+            },
+            {
+              "full_en": "to weep away the time",
+              "full_vn": "lúc nào cũng khóc lóc"
+            },
+            {
+              "full_en": "to weep the night away",
+              "full_vn": "khóc suốt đêm"
+            },
+            {
+              "full_en": "to weep one's heart out",
+              "full_vn": "khóc lóc thảm thiết"
+            },
+            {
+              "full_en": "to weep oneself out",
+              "full_vn": "khóc hết nước mắt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

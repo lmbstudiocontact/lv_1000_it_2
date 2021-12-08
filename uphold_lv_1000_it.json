@@ -1,0 +1,48 @@
+{
+  "english": "uphold",
+  "phat_am": "[ʌp'hould]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâng lên; ngước (mắt...) lên; giương cao, giơ cao"
+        },
+        {
+          "m_full_vn": "đỡ, chống, chống đỡ"
+        },
+        {
+          "m_full_vn": "ủng hộ, tán thành",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot uphold such conduct",
+              "full_vn": "tôi không thể tán thành cách cư xử như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ, giữ gìn, duy trì; giữ vững tinh thần, bảo vệ, ủng hộ",
+          "list_en_vn": [
+            {
+              "full_en": "to uphold a tradition",
+              "full_vn": "giữ gìn truyền thống"
+            },
+            {
+              "full_en": "to uphold someone",
+              "full_vn": "giữ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác nhận, chứng thực, phê chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "to uphold the jury's decision",
+              "full_vn": "xác nhận quyết định của hội đồng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "weekly",
+  "phat_am": "['wi:kli]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(xảy ra, có thể trả, xuất bản..) mỗi tuần một lần; hàng tuần",
+          "list_en_vn": [
+            {
+              "full_en": "weekly wages",
+              "full_vn": "tiền lương hàng tuần"
+            },
+            {
+              "full_en": "a weekly magazine",
+              "full_vn": "báo hàng tuần"
+            },
+            {
+              "full_en": "wages are paid weekly",
+              "full_vn": "lương được trả hàng tuần"
+            },
+            {
+              "full_en": "the machine must be checked weekly",
+              "full_vn": "máy phải được kiểm tra mỗi tuần một lần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuần báo; báo hàng tuần"
+        }
+      ]
+    }
+  ]
+}

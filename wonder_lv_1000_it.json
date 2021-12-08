@@ -1,0 +1,99 @@
+{
+  "english": "wonder",
+  "phat_am": "['wʌndə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật kỳ diệu, kỳ quan, vật phi thường; điều kỳ lạ, điều kỳ diệu; kỳ công",
+          "list_en_vn": [
+            {
+              "full_en": "the seven wonders of the world",
+              "full_vn": "bảy kỳ quan trên thế giới"
+            },
+            {
+              "full_en": "a wonder of architecture",
+              "full_vn": "một kỳ công về kiến trúc"
+            },
+            {
+              "full_en": "to work wonders",
+              "full_vn": "làm những việc kỳ lạ; thành công rực rỡ"
+            },
+            {
+              "full_en": "for a wonder",
+              "full_vn": "một cách kỳ diệu, thật là kỳ lạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người kỳ diệu, thần đồng",
+          "list_en_vn": [
+            {
+              "full_en": "a musical wonder",
+              "full_vn": "một thần đồng về nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngạc nhiên, sự kinh ngạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "a nine days' wonder",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nine"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that is no wonder",
+              "full_vn": "tất nhiên, dĩ nhiên, không có gì lạ, không có gì đáng ngạc nhiên"
+            },
+            {
+              "full_en": "to fill someone with wonder",
+              "full_vn": "làm cho ai kinh ngạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngạc nhiên, lấy làm lạ, kinh ngạc",
+          "list_en_vn": [
+            {
+              "full_en": "I dont't wonder at it",
+              "full_vn": "điều đó không làm cho tôi ngạc nhiên"
+            },
+            {
+              "full_en": "I wonder that you never heard of it",
+              "full_vn": "tôi lấy làm lạ rằng anh chưa bao giờ nghe nói về điều đó"
+            },
+            {
+              "full_en": "that's not to be wondered at",
+              "full_vn": "không có gì đáng kinh ngạc cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muốn biết, tự hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "I wonder who he is",
+              "full_vn": "tôi tự hỏi nó là ai"
+            },
+            {
+              "full_en": "I wonder whether you can tell me",
+              "full_vn": "tôi tự hỏi không biết anh có thể bảo cho tôi biết không"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

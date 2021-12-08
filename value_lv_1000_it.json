@@ -1,0 +1,166 @@
+{
+  "english": "value",
+  "phat_am": "['vælju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giá trị (bằng tiền hoặc các hàng hoá khác mà có thể trao đổi được)",
+          "list_en_vn": [
+            {
+              "full_en": "of a great value",
+              "full_vn": "có giá trị lớn, quý"
+            },
+            {
+              "full_en": "of no value",
+              "full_vn": "không có giá trị"
+            },
+            {
+              "full_en": "to set a low value on something",
+              "full_vn": "coi rẻ vật gì"
+            },
+            {
+              "full_en": "to set too much value on",
+              "full_vn": "đánh giá quá cao về"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá cả (giá trị của cái gì so với giá tiền đã trả cho nó)",
+          "list_en_vn": [
+            {
+              "full_en": "to lose value",
+              "full_vn": "mất giá, giảm giá"
+            },
+            {
+              "full_en": "fall in value",
+              "full_vn": "sự sụt giá"
+            },
+            {
+              "full_en": "commercial value",
+              "full_vn": "giá thị trường"
+            },
+            {
+              "full_en": "market value",
+              "full_vn": "thời giá, giá thị trường"
+            },
+            {
+              "full_en": "exchange value",
+              "full_vn": "giá trị trao đổi"
+            },
+            {
+              "full_en": "to get good value for one's money",
+              "full_vn": "mua được cái xứng với đồng tiền mình bỏ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá trị (tính chất có ích hay đáng giá hoặc quan trọng)",
+          "list_en_vn": [
+            {
+              "full_en": "the value of regular exercise",
+              "full_vn": "sự hữu ích của việc tập thể dục đều đặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) trị số (số, số lượng được thể hiện trong một chữ cái)",
+          "list_en_vn": [
+            {
+              "full_en": "to find the value of x",
+              "full_vn": "tìm trị số của x"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nhịp (toàn bộ khoảng thời gian ghi trên nốt nhạc)",
+          "list_en_vn": [
+            {
+              "full_en": "give the semibreve its full value",
+              "full_vn": "hãy kéo nốt tròn cho đủ nhịp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) năng suất",
+          "list_en_vn": [
+            {
+              "full_en": "calorific value",
+              "full_vn": "năng suất toả nhiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) ý nghĩa, tác dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to use a word with all its poetic value",
+              "full_vn": "dùng một từ với tất cả ý nghĩa thi pháp của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghệ thuật) sự phối màu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "tone values in a painting",
+              "full_vn": "sự phối sắc sáng tối trong một bức tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) bậc phân loại"
+        },
+        {
+          "m_full_vn": "( số nhiều) nguyên lý, nguyên tắc; tiêu chuẩn (ứng xử đạo đức, nghề nghiệp)",
+          "list_en_vn": [
+            {
+              "full_en": "scientific values",
+              "full_vn": "các nguyên lý khoa học"
+            },
+            {
+              "full_en": "moral values",
+              "full_vn": "tiêu chuẩn đạo đức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ước tính, định giá",
+          "list_en_vn": [
+            {
+              "full_en": "to value goods",
+              "full_vn": "định giá hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh giá"
+        },
+        {
+          "m_full_vn": "trọng, chuộng, quý, coi trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to value one's reputation",
+              "full_vn": "coi trọng danh giá của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hãnh diện, vênh vang",
+          "list_en_vn": [
+            {
+              "full_en": "to value oneself on one's knowledge",
+              "full_vn": "hãnh diện về kiến thức của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

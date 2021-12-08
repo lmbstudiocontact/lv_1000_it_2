@@ -1,0 +1,104 @@
+{
+  "english": "usual",
+  "phat_am": "['ju:ʒl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy ra, được làm, được dùng... trong nhiều hoặc đa số trường hợp; thông thường; thường dùng",
+          "list_one_mean": [
+            {
+              "id_full_en": "I'll have my usual , please",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy cho tôi mọi lần (thức ăn, thức uống mà (thường) ngày tôi vẫn dùng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as usual",
+              "list_im": [
+                {
+                  "im_full_vn": "như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you're late , as usual",
+                      "full_vn": "anh lại đến muộn như mọi khi"
+                    },
+                    {
+                      "full_en": "as usual , there weren't many people at the meeting",
+                      "full_vn": "như mọi lần, cũng không có bao nhiêu người đến họp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as usual",
+              "list_im": [
+                {
+                  "im_full_vn": "như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you're late , as usual",
+                      "full_vn": "anh lại đến muộn như mọi khi"
+                    },
+                    {
+                      "full_en": "as usual , there weren't many people at the meeting",
+                      "full_vn": "như mọi lần, cũng không có bao nhiêu người đến họp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as usual",
+              "list_im": [
+                {
+                  "im_full_vn": "như thường lệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you're late , as usual",
+                      "full_vn": "anh lại đến muộn như mọi khi"
+                    },
+                    {
+                      "full_en": "as usual , there weren't many people at the meeting",
+                      "full_vn": "như mọi lần, cũng không có bao nhiêu người đến họp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "business as usual",
+              "list_im": [
+                {
+                  "im_full_vn": "xem business"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make all the usual excuses",
+              "full_vn": "đưa ra tất cả những lời xin lỗi thường lệ"
+            },
+            {
+              "full_en": "to arrive later than usual",
+              "full_vn": "đến muộn hơn thường lệ"
+            },
+            {
+              "full_en": "as is usual with children , they soon got tired",
+              "full_vn": "như thường xảy ra với trẻ con, chẳng mấy chốc chúng đã thấm mệt"
+            },
+            {
+              "full_en": "he wasn't his usual self",
+              "full_vn": "hắn không còn là hắn như mọi ngày nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "training",
+  "phat_am": "['treiniη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dạy dỗ, sự huấn luyện, sự rèn luyện, sự đào tạo; quá trình huấn luyện, quá trình đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "training of troops",
+              "full_vn": "sự huấn luyện quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự tập dượt",
+          "list_en_vn": [
+            {
+              "full_en": "to go into training",
+              "full_vn": "bước vào đợt tập dượt"
+            },
+            {
+              "full_en": "to be in training",
+              "full_vn": "được tập dượt tốt; sung sức"
+            },
+            {
+              "full_en": "to be out of training",
+              "full_vn": "không được tập dượt; không sung sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự uốn cây"
+        },
+        {
+          "m_full_vn": "(quân sự) sự chĩa súng, sự nhắm bắn"
+        }
+      ]
+    }
+  ]
+}

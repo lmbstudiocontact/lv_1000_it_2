@@ -1,0 +1,44 @@
+{
+  "english": "vehicle",
+  "phat_am": "['viəkl; 'vi:hikl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe cộ (xe hai bánh, xe hơi, xe tải..)",
+          "list_en_vn": [
+            {
+              "full_en": "motor vehicles",
+              "full_vn": "xe có động cơ (xe hơi, xe buýt, xe mô tô...)"
+            },
+            {
+              "full_en": "vehicle licensing laws",
+              "full_vn": "luật lệ cấp giấy xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phương tiện truyền bá, phương tiện biểu lộ (tư tưởng, cảm xúc..)",
+          "list_en_vn": [
+            {
+              "full_en": "to use the press as a vehicle for one's political opinions",
+              "full_vn": "dùng báo chí làm phương tiện truyền bá chính kiến của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dược học) tá dược lỏng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên chở bằng xe"
+        }
+      ]
+    }
+  ]
+}

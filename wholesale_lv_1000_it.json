@@ -1,0 +1,55 @@
+{
+  "english": "wholesale",
+  "phat_am": "['houlseil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) sự bán buôn, sự bán sỉ",
+          "list_en_vn": [
+            {
+              "full_en": "the wholesale trade",
+              "full_vn": "sự bán sỉ"
+            },
+            {
+              "full_en": "wholesale prices",
+              "full_vn": "giá bán buôn; giá bán sỉ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) buôn, sỉ",
+          "list_en_vn": [
+            {
+              "full_en": "we buy our supplies wholesale",
+              "full_vn": "chúng tôi mua sỉ hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) quy mô lớn; hàng loạt, hàng đống",
+          "list_en_vn": [
+            {
+              "full_en": "wholesale slaughter of innocent people",
+              "full_vn": "sự tàn sát hàng loạt người vô tội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán buôn, bán sỉ"
+        }
+      ]
+    }
+  ]
+}

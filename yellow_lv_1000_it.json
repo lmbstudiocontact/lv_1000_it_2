@@ -1,0 +1,82 @@
+{
+  "english": "yellow",
+  "phat_am": "['jelou]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu vàng",
+          "list_en_vn": [
+            {
+              "full_en": "to grow (turn , get , become ) yellow",
+              "full_vn": "vàng ra, hoá vàng; úa vàng (lá)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có da màu nâu sáng và nước da của vài dân tộc Đông á; da vàng"
+        },
+        {
+          "m_full_vn": "ghen ghét, ghen tị, đố kỵ, ngờ vực",
+          "list_en_vn": [
+            {
+              "full_en": "to cast a yellow look at somebody",
+              "full_vn": "nhìn (ai) bằng con mắt ghen ghét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như yellow-bellied"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) có tính chất giật gân (báo chí)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu vàng",
+          "list_en_vn": [
+            {
+              "full_en": "several different yellows in the paintbox",
+              "full_vn": "có nhiều màu vàng khác nhau trong hộp thuốc vẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất, vật liệu hay lớp phủ màu vàng; quần áo màu vàng",
+          "list_en_vn": [
+            {
+              "full_en": "wearing yellow",
+              "full_vn": "mặc quần áo màu vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (y học) bệnh vàng da"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho cái gì) có màu vàng; nhuộm vàng",
+          "list_en_vn": [
+            {
+              "full_en": "yellowing autumn leaves",
+              "full_vn": "lá thu nhuốm vàng"
+            },
+            {
+              "full_en": "the manuscript had yellowed /was yellowed with age",
+              "full_vn": "bản thảo đã ố vàng theo năm tháng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

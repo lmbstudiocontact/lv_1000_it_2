@@ -1,0 +1,140 @@
+{
+  "english": "visit",
+  "phat_am": "['vizit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( visit to somebody / something ) ( visit from somebody ) sự thăm viếng; sự ở chơi",
+          "list_en_vn": [
+            {
+              "full_en": "to pay a visit to a friend , a lawyer",
+              "full_vn": "đến thăm một người bạn, một luật sư"
+            },
+            {
+              "full_en": "it was his first visit to his teacher",
+              "full_vn": "đó là lần đầu tiên anh ta đến thăm thầy mình"
+            },
+            {
+              "full_en": "to be , come , go on a visit to the seaside",
+              "full_vn": "đang ở, đến, đi thăm bờ biển"
+            },
+            {
+              "full_en": "a visit to England",
+              "full_vn": "cuộc đi tham quan nước Anh"
+            },
+            {
+              "full_en": "The king's visit to France",
+              "full_vn": "Cuộc viếng thăm Pháp của quốc vương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) cuộc chuyện trò thân mật (lúc đến thăm nhau)"
+        },
+        {
+          "m_full_vn": "(y học) sự khám bệnh, sự thăm bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "doctor's round of visits",
+              "full_vn": "sự đi khám bệnh khắp lượt của bác sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự thăm hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "right of visit",
+              "full_vn": "quyền thăm hỏi (tù nhân)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự đến khám; sự khám xét",
+          "list_en_vn": [
+            {
+              "full_en": "the visit to the scene of the crime",
+              "full_vn": "sự đi khám xét tại chỗ nơi xảy ra tội ác"
+            },
+            {
+              "full_en": "domiciliary visit",
+              "full_vn": "sự khám nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thăm viếng, đến thăm, đi thăm (một chỗ, một cơ quan..)",
+          "list_en_vn": [
+            {
+              "full_en": "to visit a friend",
+              "full_vn": "thăm một người bạn"
+            },
+            {
+              "full_en": "to visit Moscow",
+              "full_vn": "tham quan Mát-xcơ-va"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra; thanh tra",
+          "list_en_vn": [
+            {
+              "full_en": "to visit a school",
+              "full_vn": "kiểm tra một trường học"
+            },
+            {
+              "full_en": "the school inspector is visiting next week",
+              "full_vn": "ông thanh tra trường học tuần sau đi thanh tra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến, giáng xuống (tai hoạ...); lan tràn, hoành hành (bệnh tật...)",
+          "list_en_vn": [
+            {
+              "full_en": "misfortune has visited them",
+              "full_vn": "tai hoạ đã giáng xuống đầu chúng"
+            },
+            {
+              "full_en": "the plague visited the town",
+              "full_vn": "bệnh dịch lan tràn khắp thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) khám xét",
+          "list_en_vn": [
+            {
+              "full_en": "to visit the scene of the crime",
+              "full_vn": "đến khám tại chỗ nơi xảy ra tội ác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to visit something on / upon somebody / something ) (từ cổ, nghĩa cổ) bắt ai/cái gì chịu đựng sự trừng phạt..",
+          "list_en_vn": [
+            {
+              "full_en": "to visit the sins of the fathers upon the children",
+              "full_vn": "bắt con cái chịu sự trừng phạt vì tội lỗi của bố mẹ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to visit with somebody ) đến thăm ai (để chuyện trò, tán gẫu)"
+        }
+      ]
+    }
+  ]
+}

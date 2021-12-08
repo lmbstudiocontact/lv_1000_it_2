@@ -1,0 +1,32 @@
+{
+  "english": "transportation",
+  "phat_am": "[,trænspɔ:'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) sự chuyên chở, sự vận tải (như) transport",
+          "list_en_vn": [
+            {
+              "full_en": "transportation by air",
+              "full_vn": "sự chuyên chở bằng được hàng không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự phát vãng, sự bị đày, sự đày ải; tội đày, tội phát vãng",
+          "list_en_vn": [
+            {
+              "full_en": "to be sentenced to transportation for life",
+              "full_vn": "bị kết án đày chung thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phiếu vận tải, vé (tàu, xe)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "whole",
+  "phat_am": "[houl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình an vô sự, không suy suyển, không hư hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "to escape with a whole skin",
+              "full_vn": "thoát khỏi mà bình an vô sự"
+            },
+            {
+              "full_en": "to come back whole",
+              "full_vn": "trở về bình an vô sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy đủ, nguyên vẹn, nguyên chất, trọn vẹn, toàn bộ",
+          "list_en_vn": [
+            {
+              "full_en": "my whole energy",
+              "full_vn": "toàn bộ nghị lực của tôi"
+            },
+            {
+              "full_en": "to swallow it whole",
+              "full_vn": "nuốt chửng"
+            },
+            {
+              "full_en": "the whole country",
+              "full_vn": "toàn quốc"
+            },
+            {
+              "full_en": "by three whole days",
+              "full_vn": "suốt cả ba ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) khoẻ mạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do something with one's whole heart",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn tâm toàn ý làm việc gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "toàn bộ, tất cả, toàn thể",
+          "list_en_vn": [
+            {
+              "full_en": "the whole of my money",
+              "full_vn": "tất cả tiền của tôi"
+            },
+            {
+              "full_en": "I cannot tell you the whole [of it ]",
+              "full_vn": "tôi không thể kể cho anh biết tất cả được"
+            },
+            {
+              "full_en": "as a whole",
+              "full_vn": "toàn bộ, tất cả, thành một khối; nói chung"
+            },
+            {
+              "full_en": "upon (on ) the whole",
+              "full_vn": "tổng cộng, tính hết mọi lẽ, tổng quát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) tổng"
+        }
+      ]
+    }
+  ]
+}

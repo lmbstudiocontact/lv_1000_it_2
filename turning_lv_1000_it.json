@@ -1,0 +1,29 @@
+{
+  "english": "turning",
+  "phat_am": "['tə:niη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quay, sự xoay"
+        },
+        {
+          "m_full_vn": "sự đổi chiếu, sự đổi hướng"
+        },
+        {
+          "m_full_vn": "chỗ ngoặt, chỗ rẽ",
+          "list_en_vn": [
+            {
+              "full_en": "take the first turning to the right",
+              "full_vn": "hãy đi theo con đường rẽ đầu tiên về bên phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiện; nghề tiện"
+        }
+      ]
+    }
+  ]
+}

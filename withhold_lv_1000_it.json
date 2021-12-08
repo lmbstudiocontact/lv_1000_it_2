@@ -1,0 +1,64 @@
+{
+  "english": "withhold",
+  "phat_am": "[wið'hould; wiθ'hould]",
+  "list_type": [
+    {
+      "type": "ngoại động từ withheld",
+      "list_m": [
+        {
+          "m_full_vn": "từ chối không cho, từ chối không làm",
+          "list_en_vn": [
+            {
+              "full_en": "to withhold a document",
+              "full_vn": "từ chối không cho một tài liệu"
+            },
+            {
+              "full_en": "to withhold one's help from someone",
+              "full_vn": "từ chối không giúp đỡ ai"
+            },
+            {
+              "full_en": "to withhold one's hand",
+              "full_vn": "không chịu ra tay (làm việc gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấu",
+          "list_en_vn": [
+            {
+              "full_en": "to withhold the truth from a friend",
+              "full_vn": "giấu sự thật với người bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kìm lại, nín",
+          "list_en_vn": [
+            {
+              "full_en": "we couldn't withhold our laughter",
+              "full_vn": "chúng tôi đã không thể nhịn được cười"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn cản, giữ lại, thu lại; thu (cái gì) về",
+          "list_en_vn": [
+            {
+              "full_en": "to withhold someone from drinking",
+              "full_vn": "ngăn ai không cho uống rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) chiếm giữ",
+          "list_en_vn": [
+            {
+              "full_en": "to withhold property",
+              "full_vn": "chiếm giữ tài sản"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

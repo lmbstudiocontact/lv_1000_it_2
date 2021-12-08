@@ -1,0 +1,80 @@
+{
+  "english": "transport",
+  "phat_am": "[træn'spɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chuyên chở, sự vận tải; sự được chuyên chở (như) transportation",
+          "list_en_vn": [
+            {
+              "full_en": "the transport of passengers and goods",
+              "full_vn": "sự chuyên chở hành khách và hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương tiện đi lại, phương tiện vận chuyển, xe cộ"
+        },
+        {
+          "m_full_vn": "tàu vận chuyển quân dụng (như) troop-transport"
+        },
+        {
+          "m_full_vn": "sự cảm kích mạnh mẽ; mối xúc cảm mãnh liệt",
+          "list_en_vn": [
+            {
+              "full_en": "a transport of delight",
+              "full_vn": "sự hết sức vui thích"
+            },
+            {
+              "full_en": "to be in a transport of rage (fury )",
+              "full_vn": "nổi cơn thịnh nộ"
+            },
+            {
+              "full_en": "to be in transports",
+              "full_vn": "hoan hỉ, vui tưng bừng, mừng quýnh lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) người bị đày, người bị phát vãng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in transports of something",
+              "list_im": [
+                {
+                  "im_full_vn": "tràn đầy xúc động"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên chở, vận tải"
+        },
+        {
+          "m_full_vn": "gây xúc động mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to be transported with joy",
+              "full_vn": "hoan hỉ, tưng bừng vui, mừng quýnh lên"
+            },
+            {
+              "full_en": "to be transported with rage (fury )",
+              "full_vn": "giận điên lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) đày; phát vãng (tội phạm tới một nơi xa xôi để trừng phạt)"
+        }
+      ]
+    }
+  ]
+}

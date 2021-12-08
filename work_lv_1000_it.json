@@ -1,0 +1,1070 @@
+{
+  "english": "work",
+  "phat_am": "[wə:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) wk sự làm việc; việc, công việc, công tác",
+          "list_en_vn": [
+            {
+              "full_en": "to be at work",
+              "full_vn": "đang làm việc"
+            },
+            {
+              "full_en": "to set to work",
+              "full_vn": "bắt tay vào việc"
+            },
+            {
+              "full_en": "to make short work of",
+              "full_vn": "làm xong nhanh; đánh bại nhanh, diệt nhanh; tống nhanh đi"
+            },
+            {
+              "full_en": "to cease (stop ) work",
+              "full_vn": "ngừng (nghỉ) việc"
+            },
+            {
+              "full_en": "to have plenty of work to do",
+              "full_vn": "có nhiều việc phải làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi làm việc, cơ quan, sở làm",
+          "list_en_vn": [
+            {
+              "full_en": "to be late for work",
+              "full_vn": "đi làm muộn"
+            },
+            {
+              "full_en": "what time did you leave work yesterday ?",
+              "full_vn": "hôm qua anh rời khỏi cơ quan lúc mấy giờ?"
+            },
+            {
+              "full_en": "may I meet you at work ?",
+              "full_vn": "tôi gặp anh ở cơ quan được chứ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc làm; nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to look for work",
+              "full_vn": "tìm việc làm"
+            },
+            {
+              "full_en": "work experience",
+              "full_vn": "kinh nghiệm nghề nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ làm ra, sản phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "the villagers sell part of their works",
+              "full_vn": "những người nông dân bán một phần sản phẩm của họ"
+            },
+            {
+              "full_en": "a good day's work",
+              "full_vn": "khối lượng lớn công việc làm trọn vẹn được trong ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "a work of genius",
+              "full_vn": "một tác phẩm thiên tài"
+            },
+            {
+              "full_en": "works of art",
+              "full_vn": "những tác phẩm nghệ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công trình xây dựng, công việc xây dựng",
+          "list_en_vn": [
+            {
+              "full_en": "public works",
+              "full_vn": "công trình công cộng (đê, đập, đường...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ, đồ dùng, vật liệu"
+        },
+        {
+          "m_full_vn": "kiểu trang trí, cách trang trí (đồ thêu, may, đan, đồ da...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) máy, cơ cấu",
+          "list_en_vn": [
+            {
+              "full_en": "the works of a clock",
+              "full_vn": "máy đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) xưởng, nhà máy",
+          "list_en_vn": [
+            {
+              "full_en": "\"work in progress \"; \"men at work \"",
+              "full_vn": "\"công trường\""
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lao động, nhân công",
+          "list_en_vn": [
+            {
+              "full_en": "work committee",
+              "full_vn": "ban lao động, ban nhân công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) pháo đài, công sự"
+        },
+        {
+          "m_full_vn": "( số nhiều) (hàng hải) phần tàu",
+          "list_en_vn": [
+            {
+              "full_en": "upper work",
+              "full_vn": "phần trên mặt nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) công"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) tác dụng"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) việc làm, hành động",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give someone the works",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đánh đòn ai"
+                },
+                {
+                  "im_full_vn": "khử ai, giết ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone the works",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đánh đòn ai"
+                },
+                {
+                  "im_full_vn": "khử ai, giết ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the works",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến cùng"
+                },
+                {
+                  "im_full_vn": "dốc hết sức; dốc hết túi"
+                },
+                {
+                  "im_full_vn": "thử, thử xem"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the works",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến cùng"
+                },
+                {
+                  "im_full_vn": "dốc hết sức; dốc hết túi"
+                },
+                {
+                  "im_full_vn": "thử, thử xem"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the works",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến cùng"
+                },
+                {
+                  "im_full_vn": "dốc hết sức; dốc hết túi"
+                },
+                {
+                  "im_full_vn": "thử, thử xem"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "good works ; works of mercy",
+              "full_vn": "việc từ thiện, việc tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ worked , wrought",
+      "list_m": [
+        {
+          "m_full_vn": "làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "to work hard",
+              "full_vn": "làm việc khó nhọc; làm việc chăm chỉ"
+            },
+            {
+              "full_en": "to work to live",
+              "full_vn": "làm việc để sinh sống"
+            },
+            {
+              "full_en": "to work to rule",
+              "full_vn": "làm việc chiếu lệ (một hình thức bãi công kín đáo của công nhân)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động, hoạt động, làm",
+          "list_en_vn": [
+            {
+              "full_en": "to work hard for peace",
+              "full_vn": "hoạt động tích cực cho hoà bình"
+            },
+            {
+              "full_en": "to work against",
+              "full_vn": "chống lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gia công, chế biến",
+          "list_en_vn": [
+            {
+              "full_en": "iron works easily",
+              "full_vn": "sắt gia công dễ dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên men",
+          "list_en_vn": [
+            {
+              "full_en": "yeast makes beer work",
+              "full_vn": "men làm cho bia lên men"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động, có ảnh hưởng tới",
+          "list_en_vn": [
+            {
+              "full_en": "their sufferings worked upon our feelings",
+              "full_vn": "những nỗi đau khổ của họ tác động đến tình cảm của chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua, chuyển động; dần dần tự chuyển (lên, xuống); tự làm cho (lỏng, chặt...)",
+          "list_en_vn": [
+            {
+              "full_en": "the rain works through the roof",
+              "full_vn": "mưa chảy xuyên qua mái"
+            },
+            {
+              "full_en": "shirt works up",
+              "full_vn": "áo sơ mi dần dần (tự) tụt lên"
+            },
+            {
+              "full_en": "socks work down",
+              "full_vn": "tất dần dần (tự) tụt xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy",
+          "list_en_vn": [
+            {
+              "full_en": "the lift is not working",
+              "full_vn": "thang máy không chạy nữa"
+            },
+            {
+              "full_en": "to work loose",
+              "full_vn": "long, jơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến hành, tiến triển; có kết quả, có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "his scheme did not work",
+              "full_vn": "kế hoạch của nó thất bại"
+            },
+            {
+              "full_en": "it worked like a charm",
+              "full_vn": "công việc tiến triển tốt đẹp; công việc đã thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) lách (tàu)"
+        },
+        {
+          "m_full_vn": "nhăn nhó, cau lại (mặt); day dứt (ý nghĩ, lương tâm)",
+          "list_en_vn": [
+            {
+              "full_en": "his face began to work violently",
+              "full_vn": "mặt nó nhăn nhó dữ dội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "to work someone too hard",
+              "full_vn": "bắt ai làm việc quá vất vả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lên men (bia...)"
+        },
+        {
+          "m_full_vn": "thêu",
+          "list_en_vn": [
+            {
+              "full_en": "to work flowers in silk",
+              "full_vn": "thêu hoa vào lụa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (máy) chạy, chuyển vận",
+          "list_en_vn": [
+            {
+              "full_en": "to work a machine",
+              "full_vn": "cho máy chạy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm, gây ra, thi hành, thực hiện",
+          "list_en_vn": [
+            {
+              "full_en": "to work wonders",
+              "full_vn": "làm những việc kỳ lạ; thành công rực rỡ"
+            },
+            {
+              "full_en": "to work influence",
+              "full_vn": "gây ảnh hưởng"
+            },
+            {
+              "full_en": "to work a scheme",
+              "full_vn": "thi hành một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khai thác (mỏ); trổng trọt (đất đai)"
+        },
+        {
+          "m_full_vn": "giải (một bài toán); chữa (bệnh)"
+        },
+        {
+          "m_full_vn": "nhào, nặn (bột, đất sét); rèn (sắt...); tạc (tượng); vẽ (một bức tranh); chạm (gỗ); trau (vàng, bạc)"
+        },
+        {
+          "m_full_vn": "đưa dần vào, chuyển; đưa, dẫn ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "he worked the stone into place",
+              "full_vn": "anh ta chuyển hòn đá vào chỗ"
+            },
+            {
+              "full_en": "to work a screw loose",
+              "full_vn": "làm cho cái vít lỏng ra"
+            },
+            {
+              "full_en": "to work oneself into someone's favour",
+              "full_vn": "lấy lòng ai, làm cho ai quý mến mình"
+            },
+            {
+              "full_en": "to work oneself into a rage",
+              "full_vn": "nổi giận"
+            },
+            {
+              "full_en": "to work oneself along on one's elbows",
+              "full_vn": "chống khuỷu tay xuống mà bò đi"
+            },
+            {
+              "full_en": "hải to work one's passage",
+              "full_vn": "làm công trên tàu để được đi không phải trả tiền vé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sắp đặt, bày ra, bày mưu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to work away",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm việc, tiếp tục hoạt động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work down",
+              "list_im": [
+                {
+                  "im_full_vn": "xuống, rơi xuống, tụt xuống; đưa xuống, hạ xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work in",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào, để vào, đút vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work off",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất, tiêu tan"
+                },
+                {
+                  "im_full_vn": "gạt bỏ; thanh toán hết; khắc phục; bán tháo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work off one's fat",
+                      "full_vn": "làm cho tiêu mỡ, làm cho gầy bớt đi"
+                    },
+                    {
+                      "full_en": "to work off arrears of correspondence",
+                      "full_vn": "trả lời hết những thư từ còn đọng lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work off",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất, tiêu tan"
+                },
+                {
+                  "im_full_vn": "gạt bỏ; thanh toán hết; khắc phục; bán tháo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work off one's fat",
+                      "full_vn": "làm cho tiêu mỡ, làm cho gầy bớt đi"
+                    },
+                    {
+                      "full_en": "to work off arrears of correspondence",
+                      "full_vn": "trả lời hết những thư từ còn đọng lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work off",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất, tiêu tan"
+                },
+                {
+                  "im_full_vn": "gạt bỏ; thanh toán hết; khắc phục; bán tháo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work off one's fat",
+                      "full_vn": "làm cho tiêu mỡ, làm cho gầy bớt đi"
+                    },
+                    {
+                      "full_en": "to work off arrears of correspondence",
+                      "full_vn": "trả lời hết những thư từ còn đọng lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work off",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất, tiêu tan"
+                },
+                {
+                  "im_full_vn": "gạt bỏ; thanh toán hết; khắc phục; bán tháo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to work off one's fat",
+                      "full_vn": "làm cho tiêu mỡ, làm cho gầy bớt đi"
+                    },
+                    {
+                      "full_en": "to work off arrears of correspondence",
+                      "full_vn": "trả lời hết những thư từ còn đọng lại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work on",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm việc"
+                },
+                {
+                  "im_full_vn": "(thông tục) chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "tiếp tục làm tác động tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work on",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm việc"
+                },
+                {
+                  "im_full_vn": "(thông tục) chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "tiếp tục làm tác động tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work on",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm việc"
+                },
+                {
+                  "im_full_vn": "(thông tục) chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "tiếp tục làm tác động tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work out",
+              "list_im": [
+                {
+                  "im_full_vn": "đến đâu, tới đâu, ra sao; kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is impossible to tell how the situation will work out",
+                      "full_vn": "khó mà nói tình hình sẽ ra sao"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thi hành, thực hiện, tiến hành (một công việc)"
+                },
+                {
+                  "im_full_vn": "trình bày, phát triển (một ý kiến)"
+                },
+                {
+                  "im_full_vn": "vạch ra tỉ mỉ (một kế hoạch)"
+                },
+                {
+                  "im_full_vn": "tính toán; giải (bài toán); thanh toán (món nợ); khai thác hết (mỏ)"
+                },
+                {
+                  "im_full_vn": "lập thành, lập (giá cả)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work round",
+              "list_im": [
+                {
+                  "im_full_vn": "quay, vòng, rẽ, quành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dần, tiến triển, tiến dần lên"
+                },
+                {
+                  "im_full_vn": "gia công"
+                },
+                {
+                  "im_full_vn": "gây nên, gieo rắc (sự rối loạn)"
+                },
+                {
+                  "im_full_vn": "chọc tức (ai)"
+                },
+                {
+                  "im_full_vn": "soạn, chuẩn bị kỹ lưỡng (bài diễn văn)"
+                },
+                {
+                  "im_full_vn": "trộn thành một khối"
+                },
+                {
+                  "im_full_vn": "nghiên cứu để nắm được (vấn đề)"
+                },
+                {
+                  "im_full_vn": "mô tả tỉ mỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work oneself up",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi nóng, nổi giận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work oneself up to",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt tới (cái gì) bắng sức lao động của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đạt được mục đích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that won't work with me",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) điều đó không hợp với tôi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to work something",
+              "full_vn": "mưu mô một việc gì"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

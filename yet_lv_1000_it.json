@@ -1,0 +1,212 @@
+{
+  "english": "yet",
+  "phat_am": "[jet]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vào lúc này hay lúc ấy; cho đến bây giờ/lúc đó; còn; chưa",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't received a letter from him yet ; I didn't receive a letter from him yet",
+              "full_vn": "tôi chưa nhận được lá thư nào của anh ta"
+            },
+            {
+              "full_en": "Are you ready ? - No , not yet",
+              "full_vn": "anh sẵn sàng chưa - Chưa"
+            },
+            {
+              "full_en": "she was not yet sure if she could trust him",
+              "full_vn": "cô ta vẫn chưa chắc là có nên tin hắn không"
+            },
+            {
+              "full_en": "I doubt if he has read it yet",
+              "full_vn": "tôi không biết anh ta đọc cái đó chưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn; hãy còn",
+          "list_en_vn": [
+            {
+              "full_en": "we may win yet",
+              "full_vn": "chúng ta còn có thể thắng"
+            },
+            {
+              "full_en": "she may surprise us all yet",
+              "full_vn": "cô ta còn có thể làm tất cả chúng ta ngạc nhiên"
+            },
+            {
+              "full_en": "we can yet reach our destination",
+              "full_vn": "chúng ta còn có thể đi tới đích"
+            },
+            {
+              "full_en": "we have ten minutes yet",
+              "full_vn": "chúng ta còn mười phút nữa"
+            },
+            {
+              "full_en": "I remember him yet",
+              "full_vn": "tôi còn nhớ anh ta"
+            },
+            {
+              "full_en": "while he was yet asleep",
+              "full_vn": "trong khi anh ta còn đang ngủ"
+            },
+            {
+              "full_en": "there is much yet to do",
+              "full_vn": "hãy còn nhiều việc phải làm lắm"
+            },
+            {
+              "full_en": "you must work yet harder",
+              "full_vn": "anh còn phải làm việc tích cực hơn nữa"
+            },
+            {
+              "full_en": "I have a yet more important thing to say",
+              "full_vn": "tôi còn có một điều quan trọng hơn nữa để nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bây giờ, lúc này",
+          "list_en_vn": [
+            {
+              "full_en": "can't you tell me yet ?",
+              "full_vn": "bây giờ anh có thể nói với tôi được chưa?"
+            },
+            {
+              "full_en": "we needn't do it just yet",
+              "full_vn": "chúng ta chẳng cần làm điều đó lúc này"
+            },
+            {
+              "full_en": "don't go yet",
+              "full_vn": "đừng đi vội"
+            },
+            {
+              "full_en": "you don't need to start yet",
+              "full_vn": "anh chưa cần phải bắt đầu vội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng sau cấp so sánh cao nhất) cho đến nay",
+          "list_en_vn": [
+            {
+              "full_en": "the most comprehensive study yet of his poetry",
+              "full_vn": "công trình nghiên cứu toàn diện nhất về thơ của ông ấy cho đến nay"
+            },
+            {
+              "full_en": "the highest building yet constructed",
+              "full_vn": "toà nhà cao nhất được xây cất từ xưa đến giờ"
+            },
+            {
+              "full_en": "her best novel yet",
+              "full_vn": "cuốn truyện hay nhất của chị ấy từ trước đến nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đứng trước các từ ở cấp so sánh) lại còn; ngay cả",
+          "list_one_mean": [
+            {
+              "id_full_en": "as yet",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đến nay, cho đến bây giờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an as yet unpublished document",
+                      "full_vn": "một tài liệu cho đến nay chưa được công bố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as yet",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đến nay, cho đến bây giờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an as yet unpublished document",
+                      "full_vn": "một tài liệu cho đến nay chưa được công bố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "yet again",
+              "list_im": [
+                {
+                  "im_full_vn": "một lần nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "yet again we can see the results of hasty decision-making",
+                      "full_vn": "một lần nữa chúng ta có thể thấy kết quả của việc ra quyết định vội vàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "yet again",
+              "list_im": [
+                {
+                  "im_full_vn": "một lần nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "yet again we can see the results of hasty decision-making",
+                      "full_vn": "một lần nữa chúng ta có thể thấy kết quả của việc ra quyết định vội vàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "yet one more example of criminal negligence",
+              "full_vn": "lại thêm một ví dụ nữa về sự cẩu thả chết người"
+            },
+            {
+              "full_en": "yet another victim of government policy on national health funding",
+              "full_vn": "lại thêm một nạn nhân của chính sách chính phủ về quỹ y tế quốc gia"
+            },
+            {
+              "full_en": "a recent and yet more improbable theory",
+              "full_vn": "một học thuyết mới nhưng lại còn bấp bênh hơn"
+            },
+            {
+              "full_en": "advancing yet further",
+              "full_vn": "còn tiến xa hơn nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "song, vậy mà, tuy nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "slow yet thorough",
+              "full_vn": "chậm mà chắc"
+            },
+            {
+              "full_en": "he worked hard , yet he failed",
+              "full_vn": "hắn ta làm việc tích cực, ấy thế mà lại trượt"
+            },
+            {
+              "full_en": "it is strange , yet true",
+              "full_vn": "thật là kỳ lạ, nhưng mà đúng sự thực"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

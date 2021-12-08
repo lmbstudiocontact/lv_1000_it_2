@@ -1,0 +1,35 @@
+{
+  "english": "unbind",
+  "phat_am": "[,ʌn'bound]",
+  "list_type": [
+    {
+      "type": "ngoại động từ unbound",
+      "list_m": [
+        {
+          "m_full_vn": "mở; cởi; tháo"
+        },
+        {
+          "m_full_vn": "nới, xoả",
+          "list_en_vn": [
+            {
+              "full_en": "she unbound her hair",
+              "full_vn": "nàng xoả tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thả ra",
+          "list_en_vn": [
+            {
+              "full_en": "to unbound a prisoner",
+              "full_vn": "thả một tù nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) cởi băng, bó băng (vết thương)"
+        }
+      ]
+    }
+  ]
+}
